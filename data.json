@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Antelope",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A graceful, fast-moving mammal known for its horns and agility. Antelopes inhabit grasslands and savannas across Africa and Asia."
+  },
+  {
+    "name": "Bear",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A large, strong mammal with thick fur. Bears are found in forests, mountains, and arctic regions, known for their strength and adaptability."
+  },
+  {
+    "name": "Cat",
+    "tags": ["animals", "pet", "basic"],
+    "desc": "A small, carnivorous mammal often kept as a pet. Cats are known for their agility, independence, and playful behavior."
+  },
+  {
+    "name": "Dolphin",
+    "tags": ["animals", "nature", "sea"],
+    "desc": "An intelligent aquatic mammal with a sleek body. Dolphins live in oceans and rivers, known for their playful nature and high intelligence."
+  },
+  {
+    "name": "Elephant",
+    "tags": ["animals", "nature", "land"],
+    "desc": "The largest land mammal, recognized by its trunk and tusks. Elephants live in herds and are found in Africa and Asia."
+  },
+  {
+    "name": "Fox",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A small, clever mammal with a bushy tail and pointed ears. Foxes live in forests, grasslands, and even urban areas."
+  },
+  {
+    "name": "Giraffe",
+    "tags": ["animals", "nature", "land"],
+    "desc": "The tallest land animal, famous for its long neck and legs. Giraffes are found in African savannas and woodlands."
+  },
+  {
+    "name": "Horse",
+    "tags": ["animals", "pet", "land"],
+    "desc": "A strong, fast mammal used for riding, work, and companionship. Horses have been close to humans for thousands of years."
+  },
+  {
+    "name": "Iguana",
+    "tags": ["animals", "reptile", "land"],
+    "desc": "A large lizard known for its spiny back and calm nature. Iguanas live in tropical forests and are often kept as pets."
+  },
+  {
+    "name": "Jaguar",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A powerful big cat with a spotted coat. Jaguars are native to the Americas and are skilled hunters in forests and wetlands."
+  },
+  {
+    "name": "Kangaroo",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A unique marsupial with strong hind legs and a pouch. Kangaroos are native to Australia and known for their jumping ability."
+  },
+  {
+    "name": "Lion",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A large, social big cat known as the 'king of the jungle.' Lions live in prides and are found mostly in African savannas."
+  },
+  {
+    "name": "Monkey",
+    "tags": ["animals", "nature", "land"],
+    "desc": "An intelligent, social primate found in forests and jungles. Monkeys are known for their dexterity and curiosity."
+  },
+  {
+    "name": "Newt",
+    "tags": ["animals", "amphibian", "nature"],
+    "desc": "A small amphibian with a slender body and tail. Newts live in water and on land, often found near ponds and streams."
+  },
+  {
+    "name": "Owl",
+    "tags": ["animals", "bird", "nature"],
+    "desc": "A nocturnal bird with large eyes and a silent flight. Owls are expert hunters, found in forests and open areas worldwide."
+  },
+  {
+    "name": "Penguin",
+    "tags": ["animals", "bird", "sea"],
+    "desc": "A flightless bird adapted for swimming. Penguins live in the Southern Hemisphere, mostly in Antarctica, and are known for their tuxedo-like appearance."
+  },
+  {
+    "name": "Quokka",
+    "tags": ["animals", "marsupial", "land"],
+    "desc": "A small, friendly marsupial native to Australia. Quokkas are known for their cheerful appearance and live on islands and in forests."
+  },
+  {
+    "name": "Rabbit",
+    "tags": ["animals", "pet", "land"],
+    "desc": "A small mammal with long ears and a short tail. Rabbits are popular pets and are also found in grasslands and forests."
+  },
+  {
+    "name": "Snake",
+    "tags": ["animals", "reptile", "nature"],
+    "desc": "A legless, elongated reptile found worldwide. Snakes live in many habitats and are known for their flexible bodies and diverse species."
+  },
+  {
+    "name": "Tiger",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A large, striped big cat native to Asia. Tigers are powerful predators and mostly solitary animals found in forests and grasslands."
+  },
+  {
+    "name": "Urial",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A wild sheep with curved horns, found in Central and South Asia. Urials live in hilly and mountainous regions."
+  },
+  {
+    "name": "Vulture",
+    "tags": ["animals", "bird", "nature"],
+    "desc": "A large bird of prey known for scavenging. Vultures help keep ecosystems clean by feeding on dead animals."
+  },
+  {
+    "name": "Wolf",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A social, intelligent predator living in packs. Wolves are found in forests, tundra, and grasslands across the Northern Hemisphere."
+  },
+  {
+    "name": "Xerus",
+    "tags": ["animals", "rodent", "land"],
+    "desc": "A ground-dwelling squirrel found in Africa. Xerus live in colonies and are known for their burrowing and social behavior."
+  },
+  {
+    "name": "Yak",
+    "tags": ["animals", "nature", "land"],
+    "desc": "A large, shaggy-haired mammal adapted to cold mountainous regions. Yaks are native to the Himalayas and are used as pack animals."
+  },
+  {
+    "name": "Zebra",
+    "tags": ["animals", "nature", "land"],
+    "desc": "An African mammal known for its black-and-white striped coat. Zebras live in herds on grasslands and are closely related to horses."
+  }
+]
