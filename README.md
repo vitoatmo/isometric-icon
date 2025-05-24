@@ -1,17 +1,17 @@
 # Isometric Animal Icons
 
-Open source isometric icon set for developers, designers, and projects.
+Open-source isometric animal icon set for developers, designers, and all projects.
 
 ## Structure
 
-- `/animals/` — PNG icons
-- `/animals/icons.json` — metadata (`name`, `desc`, `tag`) for each icon
+- `/images/` — PNG icons (transparent background)
+- `/data.json` — metadata for each icon: `filename`, `name`, `desc`, `tags`
 
 ## Usage
 
-- Use the PNG files directly for your project.
-- Use `icons.json` to access metadata for each icon.
+- Use any PNG file directly from the `/images` folder in your project.
+- Refer to `data.json` for icon names, descriptions, and tags.
 
 ## License
 
-MIT or your preferred open license.
+MIT — free for personal or commercial use.
