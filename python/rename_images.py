@@ -1,7 +1,7 @@
 import os
 import shutil
 
-src_folder = './images'            # folder asal
+src_folder = './04_dogs'            # folder asal
 dst_folder = './renamed-images'    # folder tujuan
 
 # Bikin folder tujuan kalau belum ada

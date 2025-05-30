@@ -1,0 +1,6046 @@
+[
+  {
+    "filename": "aardvark.png",
+    "slug": "aardvark",
+    "name": "Aardvark",
+    "tags": [
+      "mammal",
+      "nocturnal",
+      "insect-eater"
+    ],
+    "description": "Nocturnal African mammal with a long snout, digs for ants and termites using its tongue."
+  },
+  {
+    "filename": "aardwolf.png",
+    "slug": "aardwolf",
+    "name": "Aardwolf",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "Africa"
+    ],
+    "description": "Small, shy relative of hyenas. Aardwolf feeds on termites and is active at night."
+  },
+  {
+    "filename": "addax.png",
+    "slug": "addax",
+    "name": "Addax",
+    "tags": [
+      "mammal",
+      "desert",
+      "endangered"
+    ],
+    "description": "Rare antelope with twisted horns. Adapted for harsh Sahara, now critically endangered."
+  },
+  {
+    "filename": "african-wild-dog.png",
+    "slug": "african-wild-dog",
+    "name": "African Wild Dog",
+    "tags": [
+      "mammal",
+      "canine",
+      "endangered"
+    ],
+    "description": "Wild dog with big ears and patchy fur. Hunts in packs across African grasslands."
+  },
+  {
+    "filename": "albatross.png",
+    "slug": "albatross",
+    "name": "Albatross",
+    "tags": [
+      "bird",
+      "sea",
+      "migratory"
+    ],
+    "description": "Large seabird with long wings. Albatrosses can glide for days over oceans."
+  },
+  {
+    "filename": "alligator.png",
+    "slug": "alligator",
+    "name": "Alligator",
+    "tags": [
+      "reptile",
+      "predator",
+      "swamp"
+    ],
+    "description": "Large reptile with a strong jaw, found in swamps and rivers. Excellent ambush predator."
+  },
+  {
+    "filename": "alpaca.png",
+    "slug": "alpaca",
+    "name": "Alpaca",
+    "tags": [
+      "mammal",
+      "farm",
+      "wool"
+    ],
+    "description": "Gentle, fluffy animal raised for its soft wool. Alpacas live in herds in South America."
+  },
+  {
+    "filename": "american-bison.png",
+    "slug": "american-bison",
+    "name": "American Bison",
+    "tags": [
+      "mammal",
+      "bison",
+      "America"
+    ],
+    "description": "Massive, shaggy animal once roaming North American plains in huge herds."
+  },
+  {
+    "filename": "anaconda.png",
+    "slug": "anaconda",
+    "name": "Anaconda",
+    "tags": [
+      "reptile",
+      "snake",
+      "constrictor"
+    ],
+    "description": "Huge South American snake that squeezes prey. Anacondas are among the world\u2019s heaviest snakes."
+  },
+  {
+    "filename": "angelfish.png",
+    "slug": "angelfish",
+    "name": "Angelfish",
+    "tags": [
+      "fish",
+      "tropical",
+      "colorful"
+    ],
+    "description": "Small, bright fish found in coral reefs. Angelfish are popular in home aquariums."
+  },
+  {
+    "filename": "anglerfish.png",
+    "slug": "anglerfish",
+    "name": "Anglerfish",
+    "tags": [
+      "fish",
+      "deep-sea",
+      "bioluminescent"
+    ],
+    "description": "Strange-looking fish with a glowing lure. Lives in deep ocean darkness, hunts with its light."
+  },
+  {
+    "filename": "anole.png",
+    "slug": "anole",
+    "name": "Anole",
+    "tags": [
+      "reptile",
+      "lizard",
+      "color-changing"
+    ],
+    "description": "Small lizard able to change colors for camouflage. Lives in trees and shrubs."
+  },
+  {
+    "filename": "ant.png",
+    "slug": "ant",
+    "name": "Ant",
+    "tags": [
+      "insect",
+      "colony",
+      "hardworking"
+    ],
+    "description": "Tiny, social insect living in colonies. Ants build tunnels and work together efficiently."
+  },
+  {
+    "filename": "antelope.png",
+    "slug": "antelope",
+    "name": "Antelope",
+    "tags": [
+      "mammal",
+      "grazer",
+      "fast"
+    ],
+    "description": "Graceful, horned herbivore of grasslands and savannas. Known for speed and agility."
+  },
+  {
+    "filename": "arctic-fox.png",
+    "slug": "arctic-fox",
+    "name": "Arctic Fox",
+    "tags": [
+      "mammal",
+      "arctic",
+      "camouflage"
+    ],
+    "description": "White-furred fox adapted for cold. Changes color with seasons for camouflage in the snow."
+  },
+  {
+    "filename": "arctic-hare.png",
+    "slug": "arctic-hare",
+    "name": "Arctic Hare",
+    "tags": [
+      "mammal",
+      "arctic",
+      "herbivore"
+    ],
+    "description": "Thick-furred hare that survives freezing tundra. Changes fur color with seasons."
+  },
+  {
+    "filename": "armadillo.png",
+    "slug": "armadillo",
+    "name": "Armadillo",
+    "tags": [
+      "mammal",
+      "armor",
+      "burrower"
+    ],
+    "description": "Small mammal with a hard shell. Good digger, lives in warm regions of the Americas."
+  },
+  {
+    "filename": "axolotl.png",
+    "slug": "axolotl",
+    "name": "Axolotl",
+    "tags": [
+      "amphibian",
+      "aquatic",
+      "regenerative"
+    ],
+    "description": "Mexican salamander famous for its ability to regenerate limbs. Lives its whole life in water."
+  },
+  {
+    "filename": "aye-aye.png",
+    "slug": "aye-aye",
+    "name": "Aye Aye",
+    "tags": [
+      "mammal",
+      "lemur",
+      "Madagascar"
+    ],
+    "description": "Nocturnal lemur with large eyes and a long finger to find insects inside trees."
+  },
+  {
+    "filename": "baboon.png",
+    "slug": "baboon",
+    "name": "Baboon",
+    "tags": [
+      "mammal",
+      "primate",
+      "social"
+    ],
+    "description": "Large monkey with a dog-like snout. Lives in troops and is highly social and expressive."
+  },
+  {
+    "filename": "badger.png",
+    "slug": "badger",
+    "name": "Badger",
+    "tags": [
+      "mammal",
+      "burrower",
+      "forest"
+    ],
+    "description": "Stocky animal with striped face. Badgers are strong diggers and mostly nocturnal."
+  },
+  {
+    "filename": "bald-eagle.png",
+    "slug": "bald-eagle",
+    "name": "Bald Eagle",
+    "tags": [
+      "bird",
+      "raptor",
+      "USA"
+    ],
+    "description": "Iconic American bird with a white head. Bald eagles are powerful hunters and national symbols."
+  },
+  {
+    "filename": "barracuda.png",
+    "slug": "barracuda",
+    "name": "Barracuda",
+    "tags": [
+      "fish",
+      "predator",
+      "sea"
+    ],
+    "description": "Fast, fierce fish with sharp teeth. Barracuda are top predators in tropical and subtropical seas."
+  },
+  {
+    "filename": "bass.png",
+    "slug": "bass",
+    "name": "Bass",
+    "tags": [
+      "fish",
+      "freshwater",
+      "angler"
+    ],
+    "description": "Common freshwater fish. Bass are popular with anglers and found in lakes and rivers worldwide."
+  },
+  {
+    "filename": "bat.png",
+    "slug": "bat",
+    "name": "Bat",
+    "tags": [
+      "mammal",
+      "nocturnal",
+      "flying"
+    ],
+    "description": "Only mammal capable of true flight. Bats use echolocation and eat insects or fruit."
+  },
+  {
+    "filename": "bear.png",
+    "slug": "bear",
+    "name": "Bear",
+    "tags": [
+      "mammal",
+      "large",
+      "omnivore"
+    ],
+    "description": "Big, strong mammal with thick fur. Bears live in forests and mountains worldwide."
+  },
+  {
+    "filename": "beaver.png",
+    "slug": "beaver",
+    "name": "Beaver",
+    "tags": [
+      "mammal",
+      "rodent",
+      "aquatic"
+    ],
+    "description": "Large, water-loving rodent known for building dams and lodges with wood and mud."
+  },
+  {
+    "filename": "bee.png",
+    "slug": "bee",
+    "name": "Bee",
+    "tags": [
+      "insect",
+      "pollinator",
+      "flying"
+    ],
+    "description": "Vital insect for pollination, lives in hives and produces honey. Essential for nature."
+  },
+  {
+    "filename": "beetle.png",
+    "slug": "beetle",
+    "name": "Beetle",
+    "tags": [
+      "insect",
+      "diverse",
+      "hard-shelled"
+    ],
+    "description": "Most diverse group of insects, beetles have tough shells and many shapes and sizes."
+  },
+  {
+    "filename": "beluga.png",
+    "slug": "beluga",
+    "name": "Beluga",
+    "tags": [
+      "mammal",
+      "whale",
+      "arctic"
+    ],
+    "description": "Small, white whale with a rounded forehead. Known for its vocal \"canary\" sounds."
+  },
+  {
+    "filename": "betta-fish.png",
+    "slug": "betta-fish",
+    "name": "Betta Fish",
+    "tags": [
+      "fish",
+      "freshwater",
+      "colorful"
+    ],
+    "description": "Vibrant, territorial fish popular in aquariums. Betta males are famous for their fins."
+  },
+  {
+    "filename": "binturong.png",
+    "slug": "binturong",
+    "name": "Binturong",
+    "tags": [
+      "mammal",
+      "arboreal",
+      "SE Asia"
+    ],
+    "description": "Large, shaggy mammal called \"bearcat.\" Binturongs smell like popcorn and live in trees."
+  },
+  {
+    "filename": "bison.png",
+    "slug": "bison",
+    "name": "Bison",
+    "tags": [
+      "mammal",
+      "bison",
+      "prairie"
+    ],
+    "description": "Heavily built grazing mammal with humped shoulders. Bison are icons of the American plains."
+  },
+  {
+    "filename": "black-mamba.png",
+    "slug": "black-mamba",
+    "name": "Black Mamba",
+    "tags": [
+      "reptile",
+      "snake",
+      "venomous"
+    ],
+    "description": "Africa\u2019s fastest, deadliest snake. Black mambas are long and have potent venom."
+  },
+  {
+    "filename": "blue-jay.png",
+    "slug": "blue-jay",
+    "name": "Blue Jay",
+    "tags": [
+      "bird",
+      "songbird",
+      "blue"
+    ],
+    "description": "Bright blue songbird of North America, known for loud calls and social behavior."
+  },
+  {
+    "filename": "blue-whale.png",
+    "slug": "blue-whale",
+    "name": "Blue Whale",
+    "tags": [
+      "mammal",
+      "whale",
+      "ocean"
+    ],
+    "description": "The largest animal on Earth. Blue whales eat tiny krill and can grow over 30 meters."
+  },
+  {
+    "filename": "boa.png",
+    "slug": "boa",
+    "name": "Boa",
+    "tags": [
+      "reptile",
+      "snake",
+      "constrictor"
+    ],
+    "description": "Large, non-venomous snake. Boas squeeze prey to eat and live in tropical forests."
+  },
+  {
+    "filename": "boar.png",
+    "slug": "boar",
+    "name": "Boar",
+    "tags": [
+      "mammal",
+      "wild",
+      "tusked"
+    ],
+    "description": "Wild pig with tusks, coarse fur, and a strong sense of smell. Found in forests worldwide."
+  },
+  {
+    "filename": "bobcat.png",
+    "slug": "bobcat",
+    "name": "Bobcat",
+    "tags": [
+      "mammal",
+      "feline",
+      "wild"
+    ],
+    "description": "Solitary wild cat of North America. Bobcats have short tails and spotted coats."
+  },
+  {
+    "filename": "bonobo.png",
+    "slug": "bonobo",
+    "name": "Bonobo",
+    "tags": [
+      "mammal",
+      "ape",
+      "endangered"
+    ],
+    "description": "Rare great ape, closely related to chimps. Bonobos are peaceful and found in Congo."
+  },
+  {
+    "filename": "booby.png",
+    "slug": "booby",
+    "name": "Booby",
+    "tags": [
+      "bird",
+      "seabird",
+      "tropics"
+    ],
+    "description": "Ocean bird with bright feet, dives for fish. Boobies nest on islands in large colonies."
+  },
+  {
+    "filename": "budgerigar.png",
+    "slug": "budgerigar",
+    "name": "Budgerigar",
+    "tags": [
+      "bird",
+      "parrot",
+      "pet"
+    ],
+    "description": "Small, colorful parrot. Budgerigars are playful, sociable, and popular as pets."
+  },
+  {
+    "filename": "buffalo.png",
+    "slug": "buffalo",
+    "name": "Buffalo",
+    "tags": [
+      "mammal",
+      "bovine",
+      "herd"
+    ],
+    "description": "Large, horned grazer of Africa and Asia. Buffalo are strong and often live near water."
+  },
+  {
+    "filename": "bushbaby.png",
+    "slug": "bushbaby",
+    "name": "Bushbaby",
+    "tags": [
+      "mammal",
+      "primate",
+      "nocturnal"
+    ],
+    "description": "Tiny, big-eyed primate from Africa. Bushbabies leap between trees at night."
+  },
+  {
+    "filename": "butterfly.png",
+    "slug": "butterfly",
+    "name": "Butterfly",
+    "tags": [
+      "insect",
+      "winged",
+      "metamorphosis"
+    ],
+    "description": "Delicate insect with colorful wings. Butterflies start as caterpillars before flying."
+  },
+  {
+    "filename": "caiman.png",
+    "slug": "caiman",
+    "name": "Caiman",
+    "tags": [
+      "reptile",
+      "crocodilian",
+      "river"
+    ],
+    "description": "Small, tropical relative of alligators. Caimans are found in Central and South America."
+  },
+  {
+    "filename": "calf.png",
+    "slug": "calf",
+    "name": "Calf",
+    "tags": [
+      "mammal",
+      "young",
+      "livestock"
+    ],
+    "description": "Young cow or bull, known for playful behavior. Calves grow quickly into adults."
+  },
+  {
+    "filename": "camel.png",
+    "slug": "camel",
+    "name": "Camel",
+    "tags": [
+      "mammal",
+      "desert",
+      "pack-animal"
+    ],
+    "description": "Long-legged animal with a humped back. Camels are well adapted for life in the desert."
+  },
+  {
+    "filename": "canary.png",
+    "slug": "canary",
+    "name": "Canary",
+    "tags": [
+      "bird",
+      "songbird",
+      "yellow"
+    ],
+    "description": "Small, bright-yellow songbird. Canaries are prized for their melodious singing."
+  },
+  {
+    "filename": "capuchin.png",
+    "slug": "capuchin",
+    "name": "Capuchin",
+    "tags": [
+      "mammal",
+      "primate",
+      "agile"
+    ],
+    "description": "Small, clever monkey from Central/South America. Capuchins use tools and live in trees."
+  },
+  {
+    "filename": "capybara.png",
+    "slug": "capybara",
+    "name": "Capybara",
+    "tags": [
+      "mammal",
+      "rodent",
+      "semi-aquatic"
+    ],
+    "description": "The world\u2019s largest rodent. Capybaras love water and live in social groups."
+  },
+  {
+    "filename": "caracal.png",
+    "slug": "caracal",
+    "name": "Caracal",
+    "tags": [
+      "mammal",
+      "feline",
+      "Africa"
+    ],
+    "description": "Wild cat with long tufted ears. Caracals are fast, powerful hunters in Africa and Asia."
+  },
+  {
+    "filename": "caribou.png",
+    "slug": "caribou",
+    "name": "Caribou",
+    "tags": [
+      "mammal",
+      "arctic",
+      "antlered"
+    ],
+    "description": "Large, wild reindeer found in cold climates. Caribou migrate long distances each year."
+  },
+  {
+    "filename": "carp.png",
+    "slug": "carp",
+    "name": "Carp",
+    "tags": [
+      "fish",
+      "freshwater",
+      "hardy"
+    ],
+    "description": "Common freshwater fish, often kept in ponds. Carp can adapt to many environments."
+  },
+  {
+    "filename": "cassowary.png",
+    "slug": "cassowary",
+    "name": "Cassowary",
+    "tags": [
+      "bird",
+      "flightless",
+      "prehistoric"
+    ],
+    "description": "Huge, flightless bird from Australia and New Guinea. Cassowaries have bright necks."
+  },
+  {
+    "filename": "cat.png",
+    "slug": "cat",
+    "name": "Cat",
+    "tags": [
+      "mammal",
+      "feline",
+      "pet"
+    ],
+    "description": "Small, playful, and independent mammal. Cats are beloved as house pets worldwide."
+  },
+  {
+    "filename": "caterpillar.png",
+    "slug": "caterpillar",
+    "name": "Caterpillar",
+    "tags": [
+      "insect",
+      "larva",
+      "metamorphosis"
+    ],
+    "description": "The larval stage of butterflies and moths, known for eating leaves and transforming."
+  },
+  {
+    "filename": "catfish.png",
+    "slug": "catfish",
+    "name": "Catfish",
+    "tags": [
+      "fish",
+      "freshwater",
+      "whiskered"
+    ],
+    "description": "Fish with whisker-like barbels, found in rivers and lakes. Catfish are bottom dwellers."
+  },
+  {
+    "filename": "cavy.png",
+    "slug": "cavy",
+    "name": "Cavy",
+    "tags": [
+      "mammal",
+      "rodent",
+      "small"
+    ],
+    "description": "Small rodent, also known as guinea pig. Cavies are social and kept as pets."
+  },
+  {
+    "filename": "centipede.png",
+    "slug": "centipede",
+    "name": "Centipede",
+    "tags": [
+      "insect",
+      "many-legged",
+      "fast"
+    ],
+    "description": "Long, segmented arthropod with many legs. Centipedes are fast predators in soil/leaves."
+  },
+  {
+    "filename": "chameleon.png",
+    "slug": "chameleon",
+    "name": "Chameleon",
+    "tags": [
+      "reptile",
+      "lizard",
+      "color-changing"
+    ],
+    "description": "Lizard with eyes that move independently and skin that changes color for camouflage."
+  },
+  {
+    "filename": "cheetah.png",
+    "slug": "cheetah",
+    "name": "Cheetah",
+    "tags": [
+      "mammal",
+      "feline",
+      "speed"
+    ],
+    "description": "The fastest land animal, cheetahs sprint after prey on African grasslands."
+  },
+  {
+    "filename": "chickadee.png",
+    "slug": "chickadee",
+    "name": "Chickadee",
+    "tags": [
+      "bird",
+      "songbird",
+      "black-cap"
+    ],
+    "description": "Small, cheerful bird with a black cap. Chickadees are known for their \u201cchick-a-dee\u201d call."
+  },
+  {
+    "filename": "chicken.png",
+    "slug": "chicken",
+    "name": "Chicken",
+    "tags": [
+      "bird",
+      "farm",
+      "domestic"
+    ],
+    "description": "Common domestic bird raised for eggs and meat. Chickens are found worldwide."
+  },
+  {
+    "filename": "chimpanzee.png",
+    "slug": "chimpanzee",
+    "name": "Chimpanzee",
+    "tags": [
+      "mammal",
+      "ape",
+      "intelligent"
+    ],
+    "description": "Intelligent, social primate using tools. Chimpanzees live in African forests."
+  },
+  {
+    "filename": "chinchilla.png",
+    "slug": "chinchilla",
+    "name": "Chinchilla",
+    "tags": [
+      "mammal",
+      "rodent",
+      "fluffy"
+    ],
+    "description": "Soft, fluffy rodent from South America. Chinchillas are prized for their dense fur."
+  },
+  {
+    "filename": "chipmunk.png",
+    "slug": "chipmunk",
+    "name": "Chipmunk",
+    "tags": [
+      "mammal",
+      "rodent",
+      "striped"
+    ],
+    "description": "Small rodent with cheek pouches and striped back. Chipmunks are active and agile."
+  },
+  {
+    "filename": "cicada.png",
+    "slug": "cicada",
+    "name": "Cicada",
+    "tags": [
+      "insect",
+      "singing",
+      "summer"
+    ],
+    "description": "Insect famous for loud summer sounds. Cicadas emerge in cycles and live underground as nymphs."
+  },
+  {
+    "filename": "civet.png",
+    "slug": "civet",
+    "name": "Civet",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "nocturnal"
+    ],
+    "description": "Cat-like mammal with a long tail and spots. Civets are active at night and eat fruit."
+  },
+  {
+    "filename": "clam.png",
+    "slug": "clam",
+    "name": "Clam",
+    "tags": [
+      "mollusk",
+      "shell",
+      "filter-feeder"
+    ],
+    "description": "Soft-bodied animal in a two-part shell. Clams burrow in sand and filter water for food."
+  },
+  {
+    "filename": "clownfish.png",
+    "slug": "clownfish",
+    "name": "Clownfish",
+    "tags": [
+      "fish",
+      "coral",
+      "colorful"
+    ],
+    "description": "Bright orange and white fish, known for living in sea anemones. Clownfish are social."
+  },
+  {
+    "filename": "coati.png",
+    "slug": "coati",
+    "name": "Coati",
+    "tags": [
+      "mammal",
+      "raccoon",
+      "tropical"
+    ],
+    "description": "Tropical mammal with a long nose and tail. Coatis are playful and curious foragers."
+  },
+  {
+    "filename": "cobra.png",
+    "slug": "cobra",
+    "name": "Cobra",
+    "tags": [
+      "reptile",
+      "snake",
+      "venomous"
+    ],
+    "description": "Highly venomous snake with a hood. Cobras are famous for their warning display."
+  },
+  {
+    "filename": "cockroach.png",
+    "slug": "cockroach",
+    "name": "Cockroach",
+    "tags": [
+      "insect",
+      "pest",
+      "scavenger"
+    ],
+    "description": "Hardy insect found everywhere. Cockroaches adapt quickly and eat almost anything."
+  },
+  {
+    "filename": "colobus.png",
+    "slug": "colobus",
+    "name": "Colobus",
+    "tags": [
+      "mammal",
+      "primate",
+      "leaf-eater"
+    ],
+    "description": "Black-and-white monkey from Africa. Colobus monkeys eat leaves and leap between trees."
+  },
+  {
+    "filename": "coral.png",
+    "slug": "coral",
+    "name": "Coral",
+    "tags": [
+      "animal",
+      "sea",
+      "reef"
+    ],
+    "description": "Marine animal that forms reefs. Corals provide shelter for countless ocean species."
+  },
+  {
+    "filename": "cormorant.png",
+    "slug": "cormorant",
+    "name": "Cormorant",
+    "tags": [
+      "bird",
+      "aquatic",
+      "diver"
+    ],
+    "description": "Water bird with a long neck. Cormorants dive deep to catch fish underwater."
+  },
+  {
+    "filename": "cow.png",
+    "slug": "cow",
+    "name": "Cow",
+    "tags": [
+      "mammal",
+      "livestock",
+      "farm"
+    ],
+    "description": "Domesticated for milk, meat, and labor. Cows are gentle, social herd animals."
+  },
+  {
+    "filename": "coyote.png",
+    "slug": "coyote",
+    "name": "Coyote",
+    "tags": [
+      "mammal",
+      "canine",
+      "wild"
+    ],
+    "description": "Wild dog of North America. Coyotes adapt to many habitats and are skilled hunters."
+  },
+  {
+    "filename": "crab.png",
+    "slug": "crab",
+    "name": "Crab",
+    "tags": [
+      "animal",
+      "crustacean",
+      "aquatic"
+    ],
+    "description": "Small, hard-shelled animal found in oceans and rivers. Crabs walk sideways and scavenge."
+  },
+  {
+    "filename": "crane.png",
+    "slug": "crane",
+    "name": "Crane",
+    "tags": [
+      "bird",
+      "wetland",
+      "tall"
+    ],
+    "description": "Long-legged bird found near water. Cranes perform elaborate mating dances."
+  },
+  {
+    "filename": "cricket.png",
+    "slug": "cricket",
+    "name": "Cricket",
+    "tags": [
+      "insect",
+      "jumping",
+      "singing"
+    ],
+    "description": "Small, jumping insect famous for its chirping at night. Crickets are common everywhere."
+  },
+  {
+    "filename": "crocodile.png",
+    "slug": "crocodile",
+    "name": "Crocodile",
+    "tags": [
+      "reptile",
+      "predator",
+      "river"
+    ],
+    "description": "Large, predatory reptile. Crocodiles have powerful jaws and live in rivers and swamps."
+  },
+  {
+    "filename": "crow.png",
+    "slug": "crow",
+    "name": "Crow",
+    "tags": [
+      "bird",
+      "smart",
+      "black"
+    ],
+    "description": "Intelligent, adaptable bird, known for problem-solving. Crows live worldwide."
+  },
+  {
+    "filename": "deer.png",
+    "slug": "deer",
+    "name": "Deer",
+    "tags": [
+      "mammal",
+      "deer",
+      "antlered"
+    ],
+    "description": "Hoofed grazer with antlers, found in forests and fields worldwide. Deer are shy and alert."
+  },
+  {
+    "filename": "dhole.png",
+    "slug": "dhole",
+    "name": "Dhole",
+    "tags": [
+      "mammal",
+      "canine",
+      "wild"
+    ],
+    "description": "Wild dog from Asia. Dhole lives and hunts in packs in dense forests."
+  },
+  {
+    "filename": "dik-dik.png",
+    "slug": "dik-dik",
+    "name": "Dik Dik",
+    "tags": [
+      "mammal",
+      "antelope",
+      "tiny"
+    ],
+    "description": "One of the smallest antelopes. Dik-diks live in African grasslands and are very alert."
+  },
+  {
+    "filename": "dingo.png",
+    "slug": "dingo",
+    "name": "Dingo",
+    "tags": [
+      "mammal",
+      "canine",
+      "Australia"
+    ],
+    "description": "Wild dog native to Australia. Dingoes live in deserts, forests, and grasslands."
+  },
+  {
+    "filename": "dodo.png",
+    "slug": "dodo",
+    "name": "Dodo",
+    "tags": [
+      "bird",
+      "extinct",
+      "flightless"
+    ],
+    "description": "Extinct, flightless bird from Mauritius. Dodo became a symbol of extinction."
+  },
+  {
+    "filename": "dog.png",
+    "slug": "dog",
+    "name": "Dog",
+    "tags": [
+      "mammal",
+      "canine",
+      "pet"
+    ],
+    "description": "Loyal, social mammal kept as a pet. Dogs are known for intelligence and companionship."
+  },
+  {
+    "filename": "dolphin.png",
+    "slug": "dolphin",
+    "name": "Dolphin",
+    "tags": [
+      "mammal",
+      "whale",
+      "intelligent"
+    ],
+    "description": "Social, intelligent marine mammal. Dolphins communicate with clicks and leaps."
+  },
+  {
+    "filename": "donkey.png",
+    "slug": "donkey",
+    "name": "Donkey",
+    "tags": [
+      "mammal",
+      "equine",
+      "strong"
+    ],
+    "description": "Hardy working animal. Donkeys are sure-footed and valued for carrying heavy loads."
+  },
+  {
+    "filename": "dove.png",
+    "slug": "dove",
+    "name": "Dove",
+    "tags": [
+      "bird",
+      "peaceful",
+      "white"
+    ],
+    "description": "Gentle bird symbolizing peace. Doves coo softly and are found in cities and forests."
+  },
+  {
+    "filename": "dragonfly.png",
+    "slug": "dragonfly",
+    "name": "Dragonfly",
+    "tags": [
+      "insect",
+      "flying",
+      "agile"
+    ],
+    "description": "Fast, colorful insect with two pairs of wings. Dragonflies eat mosquitoes and other insects."
+  },
+  {
+    "filename": "duck.png",
+    "slug": "duck",
+    "name": "Duck",
+    "tags": [
+      "bird",
+      "water",
+      "webbed-feet"
+    ],
+    "description": "Waterfowl with webbed feet and a broad bill. Ducks are found on ponds, lakes, and rivers."
+  },
+  {
+    "filename": "duckling.png",
+    "slug": "duckling",
+    "name": "Duckling",
+    "tags": [
+      "bird",
+      "young",
+      "waterfowl"
+    ],
+    "description": "Young duck covered in soft down. Ducklings swim after their mother and learn quickly."
+  },
+  {
+    "filename": "dugong.png",
+    "slug": "dugong",
+    "name": "Dugong",
+    "tags": [
+      "mammal",
+      "marine",
+      "gentle"
+    ],
+    "description": "Large, gentle sea mammal called a \"sea cow.\" Dugongs graze on seagrass in shallow waters."
+  },
+  {
+    "filename": "eagle.png",
+    "slug": "eagle",
+    "name": "Eagle",
+    "tags": [
+      "bird",
+      "raptor",
+      "sharp-eyed"
+    ],
+    "description": "Large, powerful bird of prey with keen eyesight. Eagles soar high and hunt skillfully."
+  },
+  {
+    "filename": "echidna.png",
+    "slug": "echidna",
+    "name": "Echidna",
+    "tags": [
+      "mammal",
+      "monotreme",
+      "spiny"
+    ],
+    "description": "Egg-laying mammal with spines like a hedgehog. Echidnas eat ants and live in Australia."
+  },
+  {
+    "filename": "eel.png",
+    "slug": "eel",
+    "name": "Eel",
+    "tags": [
+      "fish",
+      "snake-like",
+      "slippery"
+    ],
+    "description": "Long, slender fish with smooth skin. Eels live in both fresh and salt water."
+  },
+  {
+    "filename": "egret.png",
+    "slug": "egret",
+    "name": "Egret",
+    "tags": [
+      "bird",
+      "wader",
+      "elegant"
+    ],
+    "description": "Tall, graceful bird found in wetlands. Egrets have white plumage and hunt for fish."
+  },
+  {
+    "filename": "electric-eel.png",
+    "slug": "electric-eel",
+    "name": "Electric Eel",
+    "tags": [
+      "fish",
+      "electric",
+      "river"
+    ],
+    "description": "Fish that generates electric shocks. Electric eels use electricity to hunt and navigate."
+  },
+  {
+    "filename": "elephant.png",
+    "slug": "elephant",
+    "name": "Elephant",
+    "tags": [
+      "mammal",
+      "largest",
+      "tusked"
+    ],
+    "description": "The largest land animal. Elephants have trunks and tusks and live in Africa and Asia."
+  },
+  {
+    "filename": "emu.png",
+    "slug": "emu",
+    "name": "Emu",
+    "tags": [
+      "bird",
+      "flightless",
+      "Australia"
+    ],
+    "description": "Large, fast-running, flightless bird native to Australia. Emus have long legs and necks."
+  },
+  {
+    "filename": "falcon.png",
+    "slug": "falcon",
+    "name": "Falcon",
+    "tags": [
+      "bird",
+      "raptor",
+      "speed"
+    ],
+    "description": "Swift, predatory bird with sharp talons and a hooked beak. Falcons hunt by diving at high speed."
+  },
+  {
+    "filename": "fennec-fox.png",
+    "slug": "fennec-fox",
+    "name": "Fennec Fox",
+    "tags": [
+      "mammal",
+      "fox",
+      "desert"
+    ],
+    "description": "Small fox with huge ears, adapted for desert life. Fennec foxes stay cool in the Sahara."
+  },
+  {
+    "filename": "ferret.png",
+    "slug": "ferret",
+    "name": "Ferret",
+    "tags": [
+      "mammal",
+      "weasel",
+      "playful"
+    ],
+    "description": "Slender, playful mammal with a long body. Ferrets are energetic and curious pets."
+  },
+  {
+    "filename": "finch.png",
+    "slug": "finch",
+    "name": "Finch",
+    "tags": [
+      "bird",
+      "songbird",
+      "small"
+    ],
+    "description": "Tiny, lively songbird found worldwide. Finches have colorful plumage and varied songs."
+  },
+  {
+    "filename": "firefly.png",
+    "slug": "firefly",
+    "name": "Firefly",
+    "tags": [
+      "insect",
+      "glowing",
+      "night"
+    ],
+    "description": "Beetle that lights up at night to attract mates. Fireflies are a summer night delight."
+  },
+  {
+    "filename": "flamingo.png",
+    "slug": "flamingo",
+    "name": "Flamingo",
+    "tags": [
+      "bird",
+      "wader",
+      "pink"
+    ],
+    "description": "Tall wading bird with pink feathers. Flamingos get their color from their diet."
+  },
+  {
+    "filename": "fly.png",
+    "slug": "fly",
+    "name": "Fly",
+    "tags": [
+      "insect",
+      "flying",
+      "pest"
+    ],
+    "description": "Common, fast-breeding insect. Flies are found everywhere and feed on many things."
+  },
+  {
+    "filename": "foal.png",
+    "slug": "foal",
+    "name": "Foal",
+    "tags": [
+      "mammal",
+      "equine",
+      "young"
+    ],
+    "description": "Young horse, full of energy and curiosity. Foals can stand and run shortly after birth."
+  },
+  {
+    "filename": "fossa.png",
+    "slug": "fossa",
+    "name": "Fossa",
+    "tags": [
+      "mammal",
+      "predator",
+      "Madagascar"
+    ],
+    "description": "Cat-like predator from Madagascar. Fossas are agile hunters in forests."
+  },
+  {
+    "filename": "fox.png",
+    "slug": "fox",
+    "name": "Fox",
+    "tags": [
+      "mammal",
+      "canine",
+      "clever"
+    ],
+    "description": "Small, smart mammal with a bushy tail. Foxes adapt to many environments."
+  },
+  {
+    "filename": "frigatebird.png",
+    "slug": "frigatebird",
+    "name": "Frigatebird",
+    "tags": [
+      "bird",
+      "seabird",
+      "pirate"
+    ],
+    "description": "Large seabird known for stealing food from others. Frigatebirds glide effortlessly over oceans."
+  },
+  {
+    "filename": "frog.png",
+    "slug": "frog",
+    "name": "Frog",
+    "tags": [
+      "amphibian",
+      "jumping",
+      "aquatic"
+    ],
+    "description": "Moist-skinned animal that jumps. Frogs lay eggs in water and have a loud croak."
+  },
+  {
+    "filename": "galago.png",
+    "slug": "galago",
+    "name": "Galago",
+    "tags": [
+      "mammal",
+      "primate",
+      "small"
+    ],
+    "description": "Also called bushbaby. Galagos are tiny, nocturnal primates from Africa."
+  },
+  {
+    "filename": "gaur.png",
+    "slug": "gaur",
+    "name": "Gaur",
+    "tags": [
+      "mammal",
+      "bovine",
+      "India"
+    ],
+    "description": "Wild cattle native to South Asia. Gaur are huge, strong animals living in forests."
+  },
+  {
+    "filename": "gazelle.png",
+    "slug": "gazelle",
+    "name": "Gazelle",
+    "tags": [
+      "mammal",
+      "antelope",
+      "swift"
+    ],
+    "description": "Swift antelope with slender build and curved horns. Gazelles live in African grasslands."
+  },
+  {
+    "filename": "gecko.png",
+    "slug": "gecko",
+    "name": "Gecko",
+    "tags": [
+      "reptile",
+      "lizard",
+      "sticky-toed"
+    ],
+    "description": "Small lizard with sticky toe pads for climbing. Geckos are active at night."
+  },
+  {
+    "filename": "genet.png",
+    "slug": "genet",
+    "name": "Genet",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "agile"
+    ],
+    "description": "Small, spotted predator from Africa. Genets have long tails and live in trees."
+  },
+  {
+    "filename": "gibbon.png",
+    "slug": "gibbon",
+    "name": "Gibbon",
+    "tags": [
+      "mammal",
+      "primate",
+      "swinging"
+    ],
+    "description": "Small, acrobatic ape known for swinging through trees. Gibbons are loud and social."
+  },
+  {
+    "filename": "gila-monster.png",
+    "slug": "gila-monster",
+    "name": "Gila Monster",
+    "tags": [
+      "reptile",
+      "lizard",
+      "venomous"
+    ],
+    "description": "Large, venomous lizard from the US Southwest. Gila monsters store fat in their tails."
+  },
+  {
+    "filename": "giraffe.png",
+    "slug": "giraffe",
+    "name": "Giraffe",
+    "tags": [
+      "mammal",
+      "tall",
+      "herbivore"
+    ],
+    "description": "The tallest land animal. Giraffes have long necks to reach high leaves in African trees."
+  },
+  {
+    "filename": "glass-frog.png",
+    "slug": "glass-frog",
+    "name": "Glass Frog",
+    "tags": [
+      "amphibian",
+      "translucent",
+      "tropical"
+    ],
+    "description": "Small frog with see-through skin, revealing organs. Glass frogs live in Central/South America."
+  },
+  {
+    "filename": "glowworm.png",
+    "slug": "glowworm",
+    "name": "Glowworm",
+    "tags": [
+      "insect",
+      "glowing",
+      "larval"
+    ],
+    "description": "Insect larva that glows in the dark. Glowworms are found in caves and forests."
+  },
+  {
+    "filename": "gnu.png",
+    "slug": "gnu",
+    "name": "Gnu",
+    "tags": [
+      "mammal",
+      "antelope",
+      "wildebeest"
+    ],
+    "description": "Large African antelope, also called wildebeest. Gnus migrate in massive herds."
+  },
+  {
+    "filename": "goat.png",
+    "slug": "goat",
+    "name": "Goat",
+    "tags": [
+      "mammal",
+      "livestock",
+      "horned"
+    ],
+    "description": "Domesticated for milk, meat, and wool. Goats are hardy, agile animals in many climates."
+  },
+  {
+    "filename": "golden-lion-tamarin.png",
+    "slug": "golden-lion-tamarin",
+    "name": "Golden Lion Tamarin",
+    "tags": [
+      "mammal",
+      "primate",
+      "endangered"
+    ],
+    "description": "Bright orange monkey from Brazil. Golden lion tamarins live in treetops and are rare."
+  },
+  {
+    "filename": "goldfish.png",
+    "slug": "goldfish",
+    "name": "Goldfish",
+    "tags": [
+      "fish",
+      "freshwater",
+      "ornamental"
+    ],
+    "description": "Bright orange fish often kept in ponds and aquariums. Goldfish are peaceful and hardy."
+  },
+  {
+    "filename": "goose.png",
+    "slug": "goose",
+    "name": "Goose",
+    "tags": [
+      "bird",
+      "waterfowl",
+      "honking"
+    ],
+    "description": "Large, honking bird found near water. Geese fly in flocks and are known for migration."
+  },
+  {
+    "filename": "gopher.png",
+    "slug": "gopher",
+    "name": "Gopher",
+    "tags": [
+      "mammal",
+      "rodent",
+      "burrowing"
+    ],
+    "description": "Small, burrowing rodent that creates tunnels in fields and gardens. Gophers are diggers."
+  },
+  {
+    "filename": "gorilla.png",
+    "slug": "gorilla",
+    "name": "Gorilla",
+    "tags": [
+      "mammal",
+      "ape",
+      "strong"
+    ],
+    "description": "The largest living primate. Gorillas live in forests and form close family groups."
+  },
+  {
+    "filename": "grasshopper.png",
+    "slug": "grasshopper",
+    "name": "Grasshopper",
+    "tags": [
+      "insect",
+      "jumping",
+      "green"
+    ],
+    "description": "Small, green insect with strong legs for jumping. Grasshoppers are found in fields."
+  },
+  {
+    "filename": "griffon-vulture.png",
+    "slug": "griffon-vulture",
+    "name": "Griffon Vulture",
+    "tags": [
+      "bird",
+      "scavenger",
+      "large"
+    ],
+    "description": "Large scavenging bird with broad wings. Griffon vultures soar over mountains in Europe/Asia."
+  },
+  {
+    "filename": "grizzly-bear.png",
+    "slug": "grizzly-bear",
+    "name": "Grizzly Bear",
+    "tags": [
+      "mammal",
+      "bear",
+      "powerful"
+    ],
+    "description": "Large, powerful brown bear found in North America. Grizzly bears are top predators."
+  },
+  {
+    "filename": "grouse.png",
+    "slug": "grouse",
+    "name": "Grouse",
+    "tags": [
+      "bird",
+      "game",
+      "ground-dwelling"
+    ],
+    "description": "Medium-sized ground bird. Grouse are found in forests and are hunted for sport."
+  },
+  {
+    "filename": "guinea-fowl.png",
+    "slug": "guinea-fowl",
+    "name": "Guinea Fowl",
+    "tags": [
+      "bird",
+      "fowl",
+      "spotted"
+    ],
+    "description": "Spotted, ground-dwelling bird from Africa. Guinea fowl are raised for meat and eggs."
+  },
+  {
+    "filename": "guppy.png",
+    "slug": "guppy",
+    "name": "Guppy",
+    "tags": [
+      "fish",
+      "freshwater",
+      "tiny"
+    ],
+    "description": "Small, colorful fish popular in aquariums. Guppies breed rapidly and have lively colors."
+  },
+  {
+    "filename": "hagfish.png",
+    "slug": "hagfish",
+    "name": "Hagfish",
+    "tags": [
+      "fish",
+      "jawless",
+      "deep-sea"
+    ],
+    "description": "Eel-like, jawless fish producing slime. Hagfish live in deep seas and scavenge on dead animals."
+  },
+  {
+    "filename": "hamster.png",
+    "slug": "hamster",
+    "name": "Hamster",
+    "tags": [
+      "mammal",
+      "rodent",
+      "pet"
+    ],
+    "description": "Small, round rodent often kept as a pet. Hamsters store food in their cheeks."
+  },
+  {
+    "filename": "hare.png",
+    "slug": "hare",
+    "name": "Hare",
+    "tags": [
+      "mammal",
+      "lagomorph",
+      "fast"
+    ],
+    "description": "Fast-moving mammal with long ears. Hares live in grasslands and open forests."
+  },
+  {
+    "filename": "hawk.png",
+    "slug": "hawk",
+    "name": "Hawk",
+    "tags": [
+      "bird",
+      "raptor",
+      "keen-eyed"
+    ],
+    "description": "Bird of prey with sharp vision and powerful talons. Hawks hunt rodents and small birds."
+  },
+  {
+    "filename": "hedgehog.png",
+    "slug": "hedgehog",
+    "name": "Hedgehog",
+    "tags": [
+      "mammal",
+      "spiny",
+      "nocturnal"
+    ],
+    "description": "Small mammal covered in sharp spines. Hedgehogs roll into a ball for protection."
+  },
+  {
+    "filename": "hen.png",
+    "slug": "hen",
+    "name": "Hen",
+    "tags": [
+      "bird",
+      "farm",
+      "domestic"
+    ],
+    "description": "Female chicken that lays eggs. Hens are common in farms and backyards."
+  },
+  {
+    "filename": "heron.png",
+    "slug": "heron",
+    "name": "Heron",
+    "tags": [
+      "bird",
+      "wader",
+      "long-legged"
+    ],
+    "description": "Tall, slender bird found near water. Herons hunt fish with their sharp beaks."
+  },
+  {
+    "filename": "herring.png",
+    "slug": "herring",
+    "name": "Herring",
+    "tags": [
+      "fish",
+      "sea",
+      "schooling"
+    ],
+    "description": "Small, silvery fish that travel in schools. Herrings are important food for many animals."
+  },
+  {
+    "filename": "hippopotamus.png",
+    "slug": "hippopotamus",
+    "name": "Hippopotamus",
+    "tags": [
+      "mammal",
+      "large",
+      "river"
+    ],
+    "description": "Huge, mostly aquatic mammal with large jaws. Hippos spend most of their day in water."
+  },
+  {
+    "filename": "hog.png",
+    "slug": "hog",
+    "name": "Hog",
+    "tags": [
+      "mammal",
+      "pig",
+      "farm"
+    ],
+    "description": "Domestic pig with a stocky build and a flat snout. Hogs are raised for meat."
+  },
+  {
+    "filename": "horse.png",
+    "slug": "horse",
+    "name": "Horse",
+    "tags": [
+      "mammal",
+      "equine",
+      "riding"
+    ],
+    "description": "Large, strong animal used for riding, racing, and work. Horses have lived with humans for centuries."
+  },
+  {
+    "filename": "hummingbird.png",
+    "slug": "hummingbird",
+    "name": "Hummingbird",
+    "tags": [
+      "bird",
+      "nectar",
+      "tiny"
+    ],
+    "description": "Tiny, hovering bird with fast wings. Hummingbirds drink nectar from flowers."
+  },
+  {
+    "filename": "hyena.png",
+    "slug": "hyena",
+    "name": "Hyena",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "scavenger"
+    ],
+    "description": "Large African predator known for its laugh-like calls. Hyenas live in clans and scavenge."
+  },
+  {
+    "filename": "ibex.png",
+    "slug": "ibex",
+    "name": "Ibex",
+    "tags": [
+      "mammal",
+      "mountain",
+      "wild"
+    ],
+    "description": "Wild goat with long, curved horns. Ibex are expert climbers found in rocky mountains."
+  },
+  {
+    "filename": "iguana.png",
+    "slug": "iguana",
+    "name": "Iguana",
+    "tags": [
+      "reptile",
+      "lizard",
+      "tropical"
+    ],
+    "description": "Large, calm lizard with a spiny back. Iguanas live in tropical forests and bask in the sun."
+  },
+  {
+    "filename": "impala.png",
+    "slug": "impala",
+    "name": "Impala",
+    "tags": [
+      "mammal",
+      "antelope",
+      "swift"
+    ],
+    "description": "Sleek African antelope, famous for speed and leaping. Impalas gather in large herds."
+  },
+  {
+    "filename": "jackal.png",
+    "slug": "jackal",
+    "name": "Jackal",
+    "tags": [
+      "mammal",
+      "canine",
+      "wild"
+    ],
+    "description": "Small, clever wild dog of Africa and Asia. Jackals are scavengers and hunters."
+  },
+  {
+    "filename": "jaguar.png",
+    "slug": "jaguar",
+    "name": "Jaguar",
+    "tags": [
+      "mammal",
+      "feline",
+      "predator"
+    ],
+    "description": "Powerful big cat with rosettes on its coat. Jaguars are skilled swimmers and hunters."
+  },
+  {
+    "filename": "jellyfish.png",
+    "slug": "jellyfish",
+    "name": "Jellyfish",
+    "tags": [
+      "animal",
+      "marine",
+      "gelatinous"
+    ],
+    "description": "Soft, transparent sea creature. Jellyfish drift and sting with tentacles."
+  },
+  {
+    "filename": "kangaroo.png",
+    "slug": "kangaroo",
+    "name": "Kangaroo",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "hopping"
+    ],
+    "description": "Unique marsupial from Australia, known for its powerful jumps and front pouch."
+  },
+  {
+    "filename": "kingfisher.png",
+    "slug": "kingfisher",
+    "name": "Kingfisher",
+    "tags": [
+      "bird",
+      "river",
+      "bright"
+    ],
+    "description": "Vibrant bird with a long bill. Kingfishers dive into water to catch fish."
+  },
+  {
+    "filename": "kitten.png",
+    "slug": "kitten",
+    "name": "Kitten",
+    "tags": [
+      "mammal",
+      "feline",
+      "pet"
+    ],
+    "description": "Young, playful cat. Kittens are curious, active, and love to explore."
+  },
+  {
+    "filename": "koala.png",
+    "slug": "koala",
+    "name": "Koala",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "Australia"
+    ],
+    "description": "Eucalyptus-loving marsupial with big nose and fluffy ears. Koalas sleep up to 20 hours."
+  },
+  {
+    "filename": "koi.png",
+    "slug": "koi",
+    "name": "Koi",
+    "tags": [
+      "fish",
+      "ornamental",
+      "pond"
+    ],
+    "description": "Ornamental carp, known for bright colors. Koi are popular in garden ponds."
+  },
+  {
+    "filename": "komodo-dragon.png",
+    "slug": "komodo-dragon",
+    "name": "Komodo Dragon",
+    "tags": [
+      "reptile",
+      "lizard",
+      "giant"
+    ],
+    "description": "Largest living lizard. Komodo dragons are powerful predators from Indonesian islands."
+  },
+  {
+    "filename": "kookaburra.png",
+    "slug": "kookaburra",
+    "name": "Kookaburra",
+    "tags": [
+      "bird",
+      "laughing",
+      "Australia"
+    ],
+    "description": "Stocky, brown-and-white bird with a loud laugh. Kookaburras eat insects and small prey."
+  },
+  {
+    "filename": "ladybug.png",
+    "slug": "ladybug",
+    "name": "Ladybug",
+    "tags": [
+      "insect",
+      "beetle",
+      "spotted"
+    ],
+    "description": "Small beetle with red wings and black spots. Ladybugs eat aphids and are garden friends."
+  },
+  {
+    "filename": "lamb.png",
+    "slug": "lamb",
+    "name": "Lamb",
+    "tags": [
+      "mammal",
+      "sheep",
+      "young"
+    ],
+    "description": "Young sheep, known for its playful jumps. Lambs are symbols of innocence."
+  },
+  {
+    "filename": "lemur.png",
+    "slug": "lemur",
+    "name": "Lemur",
+    "tags": [
+      "mammal",
+      "primate",
+      "Madagascar"
+    ],
+    "description": "Tree-dwelling primate with big eyes and a long tail. Lemurs are only found in Madagascar."
+  },
+  {
+    "filename": "lion.png",
+    "slug": "lion",
+    "name": "Lion",
+    "tags": [
+      "mammal",
+      "feline",
+      "big cat"
+    ],
+    "description": "The \u201cking of the jungle.\u201d Lions live in prides and are powerful hunters."
+  },
+  {
+    "filename": "lizard.png",
+    "slug": "lizard",
+    "name": "Lizard",
+    "tags": [
+      "reptile",
+      "lizard",
+      "adaptable"
+    ],
+    "description": "Cold-blooded reptile with scaly skin. Lizards can regrow their tails if lost."
+  },
+  {
+    "filename": "llama.png",
+    "slug": "llama",
+    "name": "Llama",
+    "tags": [
+      "mammal",
+      "livestock",
+      "woolly"
+    ],
+    "description": "Woolly, pack-carrying mammal from South America. Llamas are gentle and social."
+  },
+  {
+    "filename": "lobster.png",
+    "slug": "lobster",
+    "name": "Lobster",
+    "tags": [
+      "animal",
+      "crustacean",
+      "sea"
+    ],
+    "description": "Sea creature with a hard shell and large claws. Lobsters live on the ocean floor."
+  },
+  {
+    "filename": "lynx.png",
+    "slug": "lynx",
+    "name": "Lynx",
+    "tags": [
+      "mammal",
+      "feline",
+      "wildcat"
+    ],
+    "description": "Medium-sized wildcat with tufted ears. Lynx are stealthy and live in forests."
+  },
+  {
+    "filename": "macaw.png",
+    "slug": "macaw",
+    "name": "Macaw",
+    "tags": [
+      "bird",
+      "parrot",
+      "tropical"
+    ],
+    "description": "Large, colorful parrot. Macaws have strong beaks and long tails, living in rainforests."
+  },
+  {
+    "filename": "mackerel.png",
+    "slug": "mackerel",
+    "name": "Mackerel",
+    "tags": [
+      "fish",
+      "ocean",
+      "fast"
+    ],
+    "description": "Fast-swimming, silver fish. Mackerels are important for human consumption."
+  },
+  {
+    "filename": "magpie.png",
+    "slug": "magpie",
+    "name": "Magpie",
+    "tags": [
+      "bird",
+      "songbird",
+      "black-white"
+    ],
+    "description": "Intelligent bird with black and white feathers. Magpies are known for collecting objects."
+  },
+  {
+    "filename": "manatee.png",
+    "slug": "manatee",
+    "name": "Manatee",
+    "tags": [
+      "mammal",
+      "sea",
+      "gentle"
+    ],
+    "description": "Large, slow-moving sea mammal, also called sea cow. Manatees eat aquatic plants."
+  },
+  {
+    "filename": "mandrill.png",
+    "slug": "mandrill",
+    "name": "Mandrill",
+    "tags": [
+      "mammal",
+      "primate",
+      "colorful"
+    ],
+    "description": "Large monkey with colorful face and rump. Mandrills live in African rainforests."
+  },
+  {
+    "filename": "mare.png",
+    "slug": "mare",
+    "name": "Mare",
+    "tags": [
+      "mammal",
+      "horse",
+      "female"
+    ],
+    "description": "Adult female horse, used for riding and work. Mares are strong and nurturing."
+  },
+  {
+    "filename": "margay.png",
+    "slug": "margay",
+    "name": "Margay",
+    "tags": [
+      "mammal",
+      "feline",
+      "agile"
+    ],
+    "description": "Small, agile wild cat from Central/South America. Margays live in trees and hunt at night."
+  },
+  {
+    "filename": "meerkat.png",
+    "slug": "meerkat",
+    "name": "Meerkat",
+    "tags": [
+      "mammal",
+      "mongoose",
+      "vigilant"
+    ],
+    "description": "Small, upright mammal known for sentry duty. Meerkats live in groups in African deserts."
+  },
+  {
+    "filename": "millipede.png",
+    "slug": "millipede",
+    "name": "Millipede",
+    "tags": [
+      "arthropod",
+      "many-legged",
+      "soil"
+    ],
+    "description": "Long-bodied, multi-segmented animal. Millipedes eat decaying plants and live in moist soil."
+  },
+  {
+    "filename": "mole.png",
+    "slug": "mole",
+    "name": "Mole",
+    "tags": [
+      "mammal",
+      "rodent",
+      "digging"
+    ],
+    "description": "Small, burrowing mammal with velvety fur. Moles are nearly blind and live underground."
+  },
+  {
+    "filename": "mongoose.png",
+    "slug": "mongoose",
+    "name": "Mongoose",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "slender"
+    ],
+    "description": "Small, fast mammal famous for snake-fighting skills. Mongooses are clever hunters."
+  },
+  {
+    "filename": "monitor-lizard.png",
+    "slug": "monitor-lizard",
+    "name": "Monitor Lizard",
+    "tags": [
+      "reptile",
+      "lizard",
+      "predator"
+    ],
+    "description": "Large, carnivorous lizard. Monitor lizards are active, strong, and found in Asia/Africa."
+  },
+  {
+    "filename": "monkey.png",
+    "slug": "monkey",
+    "name": "Monkey",
+    "tags": [
+      "mammal",
+      "primate",
+      "social"
+    ],
+    "description": "Clever, social primate. Monkeys live in troops and swing through trees."
+  },
+  {
+    "filename": "moose.png",
+    "slug": "moose",
+    "name": "Moose",
+    "tags": [
+      "mammal",
+      "deer",
+      "antlered"
+    ],
+    "description": "The largest species of deer. Moose have broad antlers and live in cold forests."
+  },
+  {
+    "filename": "moray-eel.png",
+    "slug": "moray-eel",
+    "name": "Moray Eel",
+    "tags": [
+      "fish",
+      "eel",
+      "predatory"
+    ],
+    "description": "Long, snake-like sea predator. Moray eels hide in reefs and have sharp teeth."
+  },
+  {
+    "filename": "mosquito.png",
+    "slug": "mosquito",
+    "name": "Mosquito",
+    "tags": [
+      "insect",
+      "flying",
+      "biting"
+    ],
+    "description": "Small, buzzing insect known for biting and spreading diseases. Mosquitoes love water."
+  },
+  {
+    "filename": "moth.png",
+    "slug": "moth",
+    "name": "Moth",
+    "tags": [
+      "insect",
+      "flying",
+      "night"
+    ],
+    "description": "Moth with soft, scaly wings. Moths are nocturnal and are attracted to light."
+  },
+  {
+    "filename": "mouse.png",
+    "slug": "mouse",
+    "name": "Mouse",
+    "tags": [
+      "mammal",
+      "rodent",
+      "small"
+    ],
+    "description": "Small, quick rodent with a long tail. Mice are found worldwide and adapt easily."
+  },
+  {
+    "filename": "musk-ox.png",
+    "slug": "musk-ox",
+    "name": "Musk Ox",
+    "tags": [
+      "mammal",
+      "ox",
+      "arctic"
+    ],
+    "description": "Large, shaggy animal from arctic tundra. Musk oxen have thick fur for extreme cold."
+  },
+  {
+    "filename": "mussel.png",
+    "slug": "mussel",
+    "name": "Mussel",
+    "tags": [
+      "mollusk",
+      "shellfish",
+      "edible"
+    ],
+    "description": "Soft-bodied animal inside a blue-black shell. Mussels cling to rocks in the sea."
+  },
+  {
+    "filename": "narwhal.png",
+    "slug": "narwhal",
+    "name": "Narwhal",
+    "tags": [
+      "mammal",
+      "whale",
+      "arctic"
+    ],
+    "description": "Long-toothed whale with a spiral tusk. Narwhals live in Arctic waters."
+  },
+  {
+    "filename": "newt.png",
+    "slug": "newt",
+    "name": "Newt",
+    "tags": [
+      "amphibian",
+      "aquatic",
+      "small"
+    ],
+    "description": "Small amphibian with a slender body and tail. Newts live both in water and on land."
+  },
+  {
+    "filename": "numbat.png",
+    "slug": "numbat",
+    "name": "Numbat",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "termite"
+    ],
+    "description": "Small, termite-eating marsupial from Australia. Numbats have striped backs and long tongues."
+  },
+  {
+    "filename": "ocelot.png",
+    "slug": "ocelot",
+    "name": "Ocelot",
+    "tags": [
+      "mammal",
+      "feline",
+      "wildcat"
+    ],
+    "description": "Small wildcat with spots and stripes. Ocelots hunt at night in forests of the Americas."
+  },
+  {
+    "filename": "octopus.png",
+    "slug": "octopus",
+    "name": "Octopus",
+    "tags": [
+      "animal",
+      "sea",
+      "intelligent"
+    ],
+    "description": "Eight-armed mollusk. Octopuses are clever, flexible, and can camouflage themselves."
+  },
+  {
+    "filename": "okapi.png",
+    "slug": "okapi",
+    "name": "Okapi",
+    "tags": [
+      "mammal",
+      "giraffe",
+      "forest"
+    ],
+    "description": "Rare, giraffe-like mammal from Africa. Okapis have striped legs and a long tongue."
+  },
+  {
+    "filename": "opposum.png",
+    "slug": "opposum",
+    "name": "Opposum",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "night"
+    ],
+    "description": "Small, nocturnal marsupial with a prehensile tail. Opossums are common in the Americas."
+  },
+  {
+    "filename": "orangutan.png",
+    "slug": "orangutan",
+    "name": "Orangutan",
+    "tags": [
+      "mammal",
+      "ape",
+      "endangered"
+    ],
+    "description": "Large, orange ape native to Indonesia. Orangutans are tree-dwellers and use tools."
+  },
+  {
+    "filename": "orca.png",
+    "slug": "orca",
+    "name": "Orca",
+    "tags": [
+      "mammal",
+      "whale",
+      "black-white"
+    ],
+    "description": "Large, intelligent dolphin, also called killer whale. Orcas live and hunt in groups."
+  },
+  {
+    "filename": "oriole.png",
+    "slug": "oriole",
+    "name": "Oriole",
+    "tags": [
+      "bird",
+      "songbird",
+      "colorful"
+    ],
+    "description": "Small, bright yellow or orange songbird. Orioles are known for their hanging nests."
+  },
+  {
+    "filename": "ostrich.png",
+    "slug": "ostrich",
+    "name": "Ostrich",
+    "tags": [
+      "bird",
+      "flightless",
+      "fast"
+    ],
+    "description": "World\u2019s largest bird, native to Africa. Ostriches run at high speed and lay huge eggs."
+  },
+  {
+    "filename": "otter.png",
+    "slug": "otter",
+    "name": "Otter",
+    "tags": [
+      "mammal",
+      "aquatic",
+      "playful"
+    ],
+    "description": "Playful, fish-eating mammal. Otters have webbed feet and love to swim."
+  },
+  {
+    "filename": "owl.png",
+    "slug": "owl",
+    "name": "Owl",
+    "tags": [
+      "bird",
+      "nocturnal",
+      "wise"
+    ],
+    "description": "Night-hunting bird with large eyes and silent wings. Owls are symbols of wisdom."
+  },
+  {
+    "filename": "oyster.png",
+    "slug": "oyster",
+    "name": "Oyster",
+    "tags": [
+      "mollusk",
+      "shellfish",
+      "pearl"
+    ],
+    "description": "Soft-bodied marine animal inside a rough shell. Oysters filter water and can make pearls."
+  },
+  {
+    "filename": "paca.png",
+    "slug": "paca",
+    "name": "Paca",
+    "tags": [
+      "mammal",
+      "rodent",
+      "burrowing"
+    ],
+    "description": "Nocturnal, burrowing rodent from South America. Pacas have spotted coats and short tails."
+  },
+  {
+    "filename": "panda.png",
+    "slug": "panda",
+    "name": "Panda",
+    "tags": [
+      "mammal",
+      "bear",
+      "bamboo-eating"
+    ],
+    "description": "Large, black and white bear native to China. Pandas mostly eat bamboo."
+  },
+  {
+    "filename": "pangolin.png",
+    "slug": "pangolin",
+    "name": "Pangolin",
+    "tags": [
+      "mammal",
+      "scaly",
+      "endangered"
+    ],
+    "description": "Armored, scale-covered mammal. Pangolins roll into a ball to escape predators."
+  },
+  {
+    "filename": "parakeet.png",
+    "slug": "parakeet",
+    "name": "Parakeet",
+    "tags": [
+      "bird",
+      "parrot",
+      "small"
+    ],
+    "description": "Small, colorful parrot with a long tail. Parakeets are playful and often kept as pets."
+  },
+  {
+    "filename": "parrot.png",
+    "slug": "parrot",
+    "name": "Parrot",
+    "tags": [
+      "bird",
+      "parrot",
+      "talking"
+    ],
+    "description": "Intelligent, colorful parrot that can mimic sounds. Parrots are social and long-lived."
+  },
+  {
+    "filename": "peacock.png",
+    "slug": "peacock",
+    "name": "Peacock",
+    "tags": [
+      "bird",
+      "display",
+      "colorful"
+    ],
+    "description": "Large bird with a vibrant fan tail. Peacocks display to attract mates."
+  },
+  {
+    "filename": "pelican.png",
+    "slug": "pelican",
+    "name": "Pelican",
+    "tags": [
+      "bird",
+      "water",
+      "large-billed"
+    ],
+    "description": "Big water bird with a long bill and throat pouch. Pelicans scoop up fish when feeding."
+  },
+  {
+    "filename": "penguin.png",
+    "slug": "penguin",
+    "name": "Penguin",
+    "tags": [
+      "bird",
+      "swimming",
+      "tuxedo"
+    ],
+    "description": "Flightless, aquatic bird. Penguins \u201cfly\u201d underwater and live in cold southern regions."
+  },
+  {
+    "filename": "pig.png",
+    "slug": "pig",
+    "name": "Pig",
+    "tags": [
+      "mammal",
+      "pig",
+      "livestock"
+    ],
+    "description": "Domesticated animal with a snout. Pigs are raised for meat and are highly intelligent."
+  },
+  {
+    "filename": "pigeon.png",
+    "slug": "pigeon",
+    "name": "Pigeon",
+    "tags": [
+      "bird",
+      "urban",
+      "adaptable"
+    ],
+    "description": "Small, plump bird common in cities. Pigeons can navigate long distances."
+  },
+  {
+    "filename": "piglet.png",
+    "slug": "piglet",
+    "name": "Piglet",
+    "tags": [
+      "mammal",
+      "pig",
+      "young"
+    ],
+    "description": "Young pig, small and playful. Piglets grow quickly and love to root in the ground."
+  },
+  {
+    "filename": "pika.png",
+    "slug": "pika",
+    "name": "Pika",
+    "tags": [
+      "mammal",
+      "rodent",
+      "alpine"
+    ],
+    "description": "Small, mountain-dwelling rodent with round ears. Pikas make haypiles for winter."
+  },
+  {
+    "filename": "piranha.png",
+    "slug": "piranha",
+    "name": "Piranha",
+    "tags": [
+      "fish",
+      "freshwater",
+      "predatory"
+    ],
+    "description": "Small, fierce fish with sharp teeth. Piranhas live in South American rivers."
+  },
+  {
+    "filename": "platypus.png",
+    "slug": "platypus",
+    "name": "Platypus",
+    "tags": [
+      "mammal",
+      "monotreme",
+      "rare"
+    ],
+    "description": "Egg-laying mammal from Australia. Platypuses have a bill like a duck and webbed feet."
+  },
+  {
+    "filename": "polar-bear.png",
+    "slug": "polar-bear",
+    "name": "Polar Bear",
+    "tags": [
+      "mammal",
+      "bear",
+      "arctic"
+    ],
+    "description": "White bear native to Arctic. Polar bears are strong swimmers and hunt seals."
+  },
+  {
+    "filename": "porcupine.png",
+    "slug": "porcupine",
+    "name": "Porcupine",
+    "tags": [
+      "mammal",
+      "rodent",
+      "spiny"
+    ],
+    "description": "Rodent with a coat of sharp quills for defense. Porcupines are slow-moving but protected."
+  },
+  {
+    "filename": "porpoise.png",
+    "slug": "porpoise",
+    "name": "Porpoise",
+    "tags": [
+      "mammal",
+      "whale",
+      "dolphin"
+    ],
+    "description": "Small, toothed whale related to dolphins. Porpoises are shy and swim in coastal waters."
+  },
+  {
+    "filename": "puffin.png",
+    "slug": "puffin",
+    "name": "Puffin",
+    "tags": [
+      "bird",
+      "seabird",
+      "arctic"
+    ],
+    "description": "Small, black and white seabird. Puffins have colorful beaks and nest in cliffs."
+  },
+  {
+    "filename": "puppy.png",
+    "slug": "puppy",
+    "name": "Puppy",
+    "tags": [
+      "mammal",
+      "dog",
+      "young"
+    ],
+    "description": "Young dog, energetic and playful. Puppies are popular pets and learn quickly."
+  },
+  {
+    "filename": "python.png",
+    "slug": "python",
+    "name": "Python",
+    "tags": [
+      "reptile",
+      "snake",
+      "constrictor"
+    ],
+    "description": "Large, non-venomous snake. Pythons squeeze prey and can grow to massive sizes."
+  },
+  {
+    "filename": "quail.png",
+    "slug": "quail",
+    "name": "Quail",
+    "tags": [
+      "bird",
+      "game",
+      "small"
+    ],
+    "description": "Small, ground-nesting bird. Quails are known for quick dashes and short flights."
+  },
+  {
+    "filename": "quetzal.png",
+    "slug": "quetzal",
+    "name": "Quetzal",
+    "tags": [
+      "bird",
+      "tropical",
+      "vibrant"
+    ],
+    "description": "Strikingly colored bird of Central/South America. Quetzals have long tail feathers."
+  },
+  {
+    "filename": "quokka.png",
+    "slug": "quokka",
+    "name": "Quokka",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "friendly"
+    ],
+    "description": "Small, happy-looking marsupial from Australia. Quokkas are famous for their smiles."
+  },
+  {
+    "filename": "rabbit.png",
+    "slug": "rabbit",
+    "name": "Rabbit",
+    "tags": [
+      "mammal",
+      "rodent",
+      "long-eared"
+    ],
+    "description": "Small, fluffy mammal with long ears. Rabbits dig burrows and eat plants."
+  },
+  {
+    "filename": "raccoon.png",
+    "slug": "raccoon",
+    "name": "Raccoon",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "masked"
+    ],
+    "description": "Small, nocturnal mammal with a striped tail. Raccoons are curious and use their hands skillfully."
+  },
+  {
+    "filename": "rat.png",
+    "slug": "rat",
+    "name": "Rat",
+    "tags": [
+      "mammal",
+      "rodent",
+      "clever"
+    ],
+    "description": "Small, clever rodent with a long tail. Rats thrive in cities and countrysides."
+  },
+  {
+    "filename": "raven.png",
+    "slug": "raven",
+    "name": "Raven",
+    "tags": [
+      "bird",
+      "smart",
+      "black"
+    ],
+    "description": "Large, intelligent bird. Ravens can mimic sounds and solve puzzles."
+  },
+  {
+    "filename": "red-panda.png",
+    "slug": "red-panda",
+    "name": "Red Panda",
+    "tags": [
+      "mammal",
+      "bear",
+      "red",
+      "tree"
+    ],
+    "description": "Small, red-furred mammal from Asia. Red pandas are agile and live in bamboo forests."
+  },
+  {
+    "filename": "reindeer.png",
+    "slug": "reindeer",
+    "name": "Reindeer",
+    "tags": [
+      "mammal",
+      "deer",
+      "arctic"
+    ],
+    "description": "Large deer adapted to cold climates. Reindeer are famous for their long migrations."
+  },
+  {
+    "filename": "retriever.png",
+    "slug": "retriever",
+    "name": "Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever"
+    ],
+    "description": "Friendly, energetic dog breed. Retrievers are great swimmers and love to fetch."
+  },
+  {
+    "filename": "rhea.png",
+    "slug": "rhea",
+    "name": "Rhea",
+    "tags": [
+      "bird",
+      "flightless",
+      "tall"
+    ],
+    "description": "Large, flightless bird from South America. Rheas run fast and live in grasslands."
+  },
+  {
+    "filename": "rhinoceros.png",
+    "slug": "rhinoceros",
+    "name": "Rhinoceros",
+    "tags": [
+      "mammal",
+      "rhinoceros",
+      "horned"
+    ],
+    "description": "Large, thick-skinned herbivore with one or two horns. Rhinos are endangered."
+  },
+  {
+    "filename": "rooster.png",
+    "slug": "rooster",
+    "name": "Rooster",
+    "tags": [
+      "bird",
+      "farm",
+      "crowing"
+    ],
+    "description": "Male chicken, famous for its crow. Roosters are colorful and protect their flock."
+  },
+  {
+    "filename": "salamander.png",
+    "slug": "salamander",
+    "name": "Salamander",
+    "tags": [
+      "amphibian",
+      "moist",
+      "tail"
+    ],
+    "description": "Moist-skinned amphibian with a long tail. Salamanders are often found near water."
+  },
+  {
+    "filename": "salmon.png",
+    "slug": "salmon",
+    "name": "Salmon",
+    "tags": [
+      "fish",
+      "salmon",
+      "migrating"
+    ],
+    "description": "Strong, silvery fish. Salmon migrate from ocean to river to spawn."
+  },
+  {
+    "filename": "samoyed.png",
+    "slug": "samoyed",
+    "name": "Samoyed",
+    "tags": [
+      "mammal",
+      "dog",
+      "fluffy"
+    ],
+    "description": "Large, white, fluffy dog. Samoyeds are friendly and great for cold climates."
+  },
+  {
+    "filename": "saola.png",
+    "slug": "saola",
+    "name": "Saola",
+    "tags": [
+      "mammal",
+      "antelope",
+      "rare"
+    ],
+    "description": "Rare wild bovine from Asia. Saolas have long, straight horns and are very elusive."
+  },
+  {
+    "filename": "sardine.png",
+    "slug": "sardine",
+    "name": "Sardine",
+    "tags": [
+      "fish",
+      "small",
+      "schooling"
+    ],
+    "description": "Small, oily fish found in large schools. Sardines are vital for the ocean food chain."
+  },
+  {
+    "filename": "scorpion.png",
+    "slug": "scorpion",
+    "name": "Scorpion",
+    "tags": [
+      "arthropod",
+      "arachnid",
+      "stinger"
+    ],
+    "description": "Small, nocturnal predator with pincers and a venomous tail. Scorpions live in deserts."
+  },
+  {
+    "filename": "sea-cucumber.png",
+    "slug": "sea-cucumber",
+    "name": "Sea Cucumber",
+    "tags": [
+      "animal",
+      "sea",
+      "echinoderm"
+    ],
+    "description": "Soft, cylindrical animal found on the sea floor. Sea cucumbers clean the ocean bottom."
+  },
+  {
+    "filename": "sea-lion.png",
+    "slug": "sea-lion",
+    "name": "Sea Lion",
+    "tags": [
+      "mammal",
+      "sea",
+      "playful"
+    ],
+    "description": "Playful marine mammal with flippers. Sea lions bark loudly and love sunbathing."
+  },
+  {
+    "filename": "seagull.png",
+    "slug": "seagull",
+    "name": "Seagull",
+    "tags": [
+      "bird",
+      "coast",
+      "scavenger"
+    ],
+    "description": "Coastal bird with a loud call and white-gray feathers. Seagulls eat almost anything."
+  },
+  {
+    "filename": "seahorse.png",
+    "slug": "seahorse",
+    "name": "Seahorse",
+    "tags": [
+      "fish",
+      "marine",
+      "horse-shaped"
+    ],
+    "description": "Small fish with a horse-like head. Seahorses swim upright and males carry the young."
+  },
+  {
+    "filename": "seal.png",
+    "slug": "seal",
+    "name": "Seal",
+    "tags": [
+      "mammal",
+      "sea",
+      "blubber"
+    ],
+    "description": "Marine mammal with flippers and thick blubber. Seals are playful and hunt fish."
+  },
+  {
+    "filename": "serval.png",
+    "slug": "serval",
+    "name": "Serval",
+    "tags": [
+      "mammal",
+      "feline",
+      "wild"
+    ],
+    "description": "Medium-sized, spotted wild cat from Africa. Servals have long legs and large ears."
+  },
+  {
+    "filename": "shark.png",
+    "slug": "shark",
+    "name": "Shark",
+    "tags": [
+      "fish",
+      "ocean",
+      "predatory"
+    ],
+    "description": "Powerful ocean predator with sharp teeth. Sharks have existed for over 400 million years."
+  },
+  {
+    "filename": "sheep.png",
+    "slug": "sheep",
+    "name": "Sheep",
+    "tags": [
+      "mammal",
+      "livestock",
+      "woolly"
+    ],
+    "description": "Farm animal with thick, curly wool. Sheep are raised for fleece and meat."
+  },
+  {
+    "filename": "shoebill.png",
+    "slug": "shoebill",
+    "name": "Shoebill",
+    "tags": [
+      "bird",
+      "wetland",
+      "large bill"
+    ],
+    "description": "Tall bird with a wide, shoe-shaped bill. Shoebills live in African swamps."
+  },
+  {
+    "filename": "shrimp.png",
+    "slug": "shrimp",
+    "name": "Shrimp",
+    "tags": [
+      "animal",
+      "crustacean",
+      "small"
+    ],
+    "description": "Small, shrimp-like creature. Shrimps swim backward and are important for ocean food chains."
+  },
+  {
+    "filename": "skunk.png",
+    "slug": "skunk",
+    "name": "Skunk",
+    "tags": [
+      "mammal",
+      "rodent",
+      "smelly"
+    ],
+    "description": "Small, black and white mammal. Skunks spray a strong odor as defense."
+  },
+  {
+    "filename": "sloth.png",
+    "slug": "sloth",
+    "name": "Sloth",
+    "tags": [
+      "mammal",
+      "arboreal",
+      "slow"
+    ],
+    "description": "Tree-dwelling mammal famous for slow movement. Sloths eat leaves and sleep a lot."
+  },
+  {
+    "filename": "slug.png",
+    "slug": "slug",
+    "name": "Slug",
+    "tags": [
+      "animal",
+      "mollusk",
+      "slimy"
+    ],
+    "description": "Soft, slimy animal with no shell. Slugs leave a shiny trail as they move."
+  },
+  {
+    "filename": "snail.png",
+    "slug": "snail",
+    "name": "Snail",
+    "tags": [
+      "mollusk",
+      "shell",
+      "slow"
+    ],
+    "description": "Soft-bodied animal with a spiral shell. Snails are slow movers found in gardens and forests."
+  },
+  {
+    "filename": "snake.png",
+    "slug": "snake",
+    "name": "Snake",
+    "tags": [
+      "reptile",
+      "snake",
+      "flexible"
+    ],
+    "description": "Long, legless reptile. Snakes swallow prey whole and come in many sizes."
+  },
+  {
+    "filename": "snow-leopard.png",
+    "slug": "snow-leopard",
+    "name": "Snow Leopard",
+    "tags": [
+      "mammal",
+      "feline",
+      "snow",
+      "spotted"
+    ],
+    "description": "Large wild cat with thick fur and rosettes. Snow leopards live in mountain ranges."
+  },
+  {
+    "filename": "sow.png",
+    "slug": "sow",
+    "name": "Sow",
+    "tags": [
+      "mammal",
+      "pig",
+      "female"
+    ],
+    "description": "Adult female pig, usually the mother of piglets. Sows are kept for breeding."
+  },
+  {
+    "filename": "sparrow.png",
+    "slug": "sparrow",
+    "name": "Sparrow",
+    "tags": [
+      "bird",
+      "songbird",
+      "small"
+    ],
+    "description": "Small, cheerful songbird found everywhere. Sparrows chirp and flit in gardens and parks."
+  },
+  {
+    "filename": "spider.png",
+    "slug": "spider",
+    "name": "Spider",
+    "tags": [
+      "animal",
+      "arachnid",
+      "web"
+    ],
+    "description": "Eight-legged predator that spins webs to catch insects. Spiders live almost everywhere."
+  },
+  {
+    "filename": "spoonbill.png",
+    "slug": "spoonbill",
+    "name": "Spoonbill",
+    "tags": [
+      "bird",
+      "wader",
+      "spoon-bill"
+    ],
+    "description": "Tall wading bird with a wide, spoon-shaped bill. Spoonbills sift mud for food."
+  },
+  {
+    "filename": "squid.png",
+    "slug": "squid",
+    "name": "Squid",
+    "tags": [
+      "animal",
+      "mollusk",
+      "tentacled"
+    ],
+    "description": "Marine animal with a soft body and tentacles. Squids can squirt ink to escape predators."
+  },
+  {
+    "filename": "squirrel.png",
+    "slug": "squirrel",
+    "name": "Squirrel",
+    "tags": [
+      "mammal",
+      "rodent",
+      "bushy tail"
+    ],
+    "description": "Small, tree-dwelling rodent with a bushy tail. Squirrels store nuts and leap through trees."
+  },
+  {
+    "filename": "stallion.png",
+    "slug": "stallion",
+    "name": "Stallion",
+    "tags": [
+      "mammal",
+      "horse",
+      "stallion"
+    ],
+    "description": "Uncastrated adult male horse. Stallions are strong and often used for breeding."
+  },
+  {
+    "filename": "starfish.png",
+    "slug": "starfish",
+    "name": "Starfish",
+    "tags": [
+      "animal",
+      "sea",
+      "star-shaped"
+    ],
+    "description": "Star-shaped marine animal. Starfish regenerate lost arms and live on the sea floor."
+  },
+  {
+    "filename": "starling.png",
+    "slug": "starling",
+    "name": "Starling",
+    "tags": [
+      "bird",
+      "songbird",
+      "iridescent"
+    ],
+    "description": "Medium-sized, glossy bird. Starlings mimic sounds and gather in large flocks."
+  },
+  {
+    "filename": "stingray.png",
+    "slug": "stingray",
+    "name": "Stingray",
+    "tags": [
+      "fish",
+      "marine",
+      "flat"
+    ],
+    "description": "Flat, disc-shaped fish with a venomous tail. Stingrays glide along the ocean bottom."
+  },
+  {
+    "filename": "stork.png",
+    "slug": "stork",
+    "name": "Stork",
+    "tags": [
+      "bird",
+      "wader",
+      "long-necked"
+    ],
+    "description": "Large, long-legged bird. Storks migrate long distances and build huge nests."
+  },
+  {
+    "filename": "sun-bear.png",
+    "slug": "sun-bear",
+    "name": "Sun Bear",
+    "tags": [
+      "mammal",
+      "bear",
+      "tropical"
+    ],
+    "description": "Small, tree-climbing bear with a short, sleek coat. Sun bears are found in Southeast Asia."
+  },
+  {
+    "filename": "swordfish.png",
+    "slug": "swordfish",
+    "name": "Swordfish",
+    "tags": [
+      "fish",
+      "ocean",
+      "sword-nosed"
+    ],
+    "description": "Large, powerful fish with a long, sword-like bill. Swordfish are fast swimmers."
+  },
+  {
+    "filename": "swordtail.png",
+    "slug": "swordtail",
+    "name": "Swordtail",
+    "tags": [
+      "fish",
+      "freshwater",
+      "colorful"
+    ],
+    "description": "Small, lively fish with a long tail. Swordtails are popular aquarium fish."
+  },
+  {
+    "filename": "tadpole.png",
+    "slug": "tadpole",
+    "name": "Tadpole",
+    "tags": [
+      "amphibian",
+      "larva",
+      "aquatic"
+    ],
+    "description": "Aquatic larval stage of frogs and toads. Tadpoles have tails and breathe through gills."
+  },
+  {
+    "filename": "tamarin.png",
+    "slug": "tamarin",
+    "name": "Tamarin",
+    "tags": [
+      "mammal",
+      "primate",
+      "small"
+    ],
+    "description": "Small monkey from South America with a long tail. Tamarins live in trees and are agile."
+  },
+  {
+    "filename": "tapeworm.png",
+    "slug": "tapeworm",
+    "name": "Tapeworm",
+    "tags": [
+      "parasite",
+      "worm",
+      "flat"
+    ],
+    "description": "Parasitic flatworm that lives in intestines. Tapeworms absorb nutrients from their host."
+  },
+  {
+    "filename": "tapir.png",
+    "slug": "tapir",
+    "name": "Tapir",
+    "tags": [
+      "mammal",
+      "herbivore",
+      "rare"
+    ],
+    "description": "Large, pig-like mammal with a flexible snout. Tapirs live in forests of South America and Asia."
+  },
+  {
+    "filename": "tarsier.png",
+    "slug": "tarsier",
+    "name": "Tarsier",
+    "tags": [
+      "mammal",
+      "primate",
+      "nocturnal"
+    ],
+    "description": "Tiny nocturnal primate with big eyes. Tarsiers are expert jumpers and insect hunters."
+  },
+  {
+    "filename": "termite.png",
+    "slug": "termite",
+    "name": "Termite",
+    "tags": [
+      "insect",
+      "colony",
+      "wood"
+    ],
+    "description": "Social insect that lives in colonies and eats wood. Termites can damage buildings."
+  },
+  {
+    "filename": "tiger.png",
+    "slug": "tiger",
+    "name": "Tiger",
+    "tags": [
+      "mammal",
+      "feline",
+      "predator"
+    ],
+    "description": "Large, striped big cat native to Asia. Tigers are powerful, solitary hunters."
+  },
+  {
+    "filename": "toad.png",
+    "slug": "toad",
+    "name": "Toad",
+    "tags": [
+      "amphibian",
+      "warty",
+      "land"
+    ],
+    "description": "Stocky, warty amphibian. Toads have dry skin and live on land but return to water to breed."
+  },
+  {
+    "filename": "tortoise.png",
+    "slug": "tortoise",
+    "name": "Tortoise",
+    "tags": [
+      "reptile",
+      "turtle",
+      "land"
+    ],
+    "description": "Land-dwelling reptile with a dome shell. Tortoises are slow and can live over 100 years."
+  },
+  {
+    "filename": "toucan.png",
+    "slug": "toucan",
+    "name": "Toucan",
+    "tags": [
+      "bird",
+      "tropical",
+      "beaked"
+    ],
+    "description": "Colorful bird with a giant beak. Toucans live in rainforests and eat fruit."
+  },
+  {
+    "filename": "trout.png",
+    "slug": "trout",
+    "name": "Trout",
+    "tags": [
+      "fish",
+      "freshwater",
+      "sport"
+    ],
+    "description": "Freshwater fish known for leaping upstream. Trout are prized by anglers."
+  },
+  {
+    "filename": "tuna.png",
+    "slug": "tuna",
+    "name": "Tuna",
+    "tags": [
+      "fish",
+      "ocean",
+      "commercial"
+    ],
+    "description": "Fast, large ocean fish. Tuna are important for food and can swim great distances."
+  },
+  {
+    "filename": "turkey.png",
+    "slug": "turkey",
+    "name": "Turkey",
+    "tags": [
+      "bird",
+      "farm",
+      "gobbler"
+    ],
+    "description": "Large, ground-dwelling bird. Turkeys have fan-shaped tails and wattled necks."
+  },
+  {
+    "filename": "turtle.png",
+    "slug": "turtle",
+    "name": "Turtle",
+    "tags": [
+      "reptile",
+      "turtle",
+      "aquatic"
+    ],
+    "description": "Reptile with a shell, living mostly in water. Turtles can be found in rivers and seas."
+  },
+  {
+    "filename": "urchin.png",
+    "slug": "urchin",
+    "name": "Urchin",
+    "tags": [
+      "animal",
+      "echinoderm",
+      "sea"
+    ],
+    "description": "Spiny, round marine animal. Urchins graze on algae and hide in rocky crevices."
+  },
+  {
+    "filename": "urial.png",
+    "slug": "urial",
+    "name": "Urial",
+    "tags": [
+      "mammal",
+      "sheep",
+      "wild"
+    ],
+    "description": "Wild sheep with curved horns. Urials live in mountains of Central and South Asia."
+  },
+  {
+    "filename": "vulture.png",
+    "slug": "vulture",
+    "name": "Vulture",
+    "tags": [
+      "bird",
+      "scavenger",
+      "large"
+    ],
+    "description": "Large scavenging bird. Vultures feed on carrion and help clean up the environment."
+  },
+  {
+    "filename": "wallaby.png",
+    "slug": "wallaby",
+    "name": "Wallaby",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "jumper"
+    ],
+    "description": "Small, hopping marsupial from Australia. Wallabies look like kangaroos, but are smaller."
+  },
+  {
+    "filename": "walrus.png",
+    "slug": "walrus",
+    "name": "Walrus",
+    "tags": [
+      "mammal",
+      "marine",
+      "tusked"
+    ],
+    "description": "Large marine mammal with long tusks and whiskers. Walruses haul out on ice to rest."
+  },
+  {
+    "filename": "warthog.png",
+    "slug": "warthog",
+    "name": "Warthog",
+    "tags": [
+      "mammal",
+      "pig",
+      "wild"
+    ],
+    "description": "Wild pig with curved tusks and warts on its face. Warthogs run with tails upright."
+  },
+  {
+    "filename": "wasp.png",
+    "slug": "wasp",
+    "name": "Wasp",
+    "tags": [
+      "insect",
+      "stinger",
+      "flying"
+    ],
+    "description": "Aggressive, flying insect with a painful sting. Wasps build papery nests."
+  },
+  {
+    "filename": "weasel.png",
+    "slug": "weasel",
+    "name": "Weasel",
+    "tags": [
+      "mammal",
+      "carnivore",
+      "slender"
+    ],
+    "description": "Small, fast predator with a long body. Weasels hunt rodents and are very agile."
+  },
+  {
+    "filename": "whale.png",
+    "slug": "whale",
+    "name": "Whale",
+    "tags": [
+      "mammal",
+      "marine",
+      "giant"
+    ],
+    "description": "The largest mammal on Earth. Whales breathe air and live in oceans."
+  },
+  {
+    "filename": "wolf.png",
+    "slug": "wolf",
+    "name": "Wolf",
+    "tags": [
+      "mammal",
+      "canine",
+      "pack"
+    ],
+    "description": "Social predator living in packs. Wolves hunt cooperatively in forests and tundra."
+  },
+  {
+    "filename": "wombat.png",
+    "slug": "wombat",
+    "name": "Wombat",
+    "tags": [
+      "mammal",
+      "marsupial",
+      "burrow"
+    ],
+    "description": "Stocky, burrowing marsupial from Australia. Wombats dig tunnels with powerful claws."
+  },
+  {
+    "filename": "woodpecker.png",
+    "slug": "woodpecker",
+    "name": "Woodpecker",
+    "tags": [
+      "bird",
+      "pecker",
+      "forest"
+    ],
+    "description": "Bird with a strong beak for drilling into wood. Woodpeckers tap trees for food and nests."
+  },
+  {
+    "filename": "worm.png",
+    "slug": "worm",
+    "name": "Worm",
+    "tags": [
+      "animal",
+      "worm",
+      "soil"
+    ],
+    "description": "Soft-bodied, segmented animal. Worms aerate soil and decompose organic matter."
+  },
+  {
+    "filename": "xerus.png",
+    "slug": "xerus",
+    "name": "Xerus",
+    "tags": [
+      "mammal",
+      "rodent",
+      "ground"
+    ],
+    "description": "African ground squirrel with a bushy tail. Xerus live in colonies and dig burrows."
+  },
+  {
+    "filename": "zebra.png",
+    "slug": "zebra",
+    "name": "Zebra",
+    "tags": [
+      "mammal",
+      "horse",
+      "striped"
+    ],
+    "description": "African mammal with black-and-white stripes. Zebras live in herds on open grasslands."
+  },
+  {
+    "filename": "zebu.png",
+    "slug": "zebu",
+    "name": "Zebu",
+    "tags": [
+      "mammal",
+      "cattle",
+      "humped"
+    ],
+    "description": "Domesticated cattle with a hump on their shoulders. Zebus are hardy and heat-tolerant."
+  },
+  {
+    "filename": "affenpinscher.png",
+    "slug": "affenpinscher",
+    "name": "Affenpinscher",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "spunky"
+    ],
+    "description": "Small, bold, and curious. Lively \u201cmonkey-like\u201d companion with a big personality."
+  },
+  {
+    "filename": "afghan-hound.png",
+    "slug": "afghan-hound",
+    "name": "Afghan Hound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "elegant"
+    ],
+    "description": "Tall, graceful sighthound. Famous for its flowing coat and independent nature."
+  },
+  {
+    "filename": "airedale-terrier.png",
+    "slug": "airedale-terrier",
+    "name": "Airedale Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "large"
+    ],
+    "description": "The largest terrier. Confident, alert, and playful. Great all-purpose dog."
+  },
+  {
+    "filename": "akita.png",
+    "slug": "akita",
+    "name": "Akita",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "loyal"
+    ],
+    "description": "Powerful, dignified, and loyal. A natural guardian with a calm temperament."
+  },
+  {
+    "filename": "alaskan-malamute.png",
+    "slug": "alaskan-malamute",
+    "name": "Alaskan Malamute",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "sled"
+    ],
+    "description": "Powerful, wolf-like sled dog. Bred for strength, loves cold and outdoor activities."
+  },
+  {
+    "filename": "american-bulldog.png",
+    "slug": "american-bulldog",
+    "name": "American Bulldog",
+    "tags": [
+      "mammal",
+      "dog",
+      "muscular",
+      "loyal"
+    ],
+    "description": "Strong, athletic, and loyal. Great with families but needs good training."
+  },
+  {
+    "filename": "american-cocker-spaniel.png",
+    "slug": "american-cocker-spaniel",
+    "name": "American Cocker Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "friendly"
+    ],
+    "description": "Compact, cheerful, and affectionate. Loves play and grooming."
+  },
+  {
+    "filename": "american-eskimo-dog.png",
+    "slug": "american-eskimo-dog",
+    "name": "American Eskimo Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "fluffy",
+      "alert"
+    ],
+    "description": "Fluffy, intelligent, and alert. Great watchdog and family pet."
+  },
+  {
+    "filename": "american-foxhound.png",
+    "slug": "american-foxhound",
+    "name": "American Foxhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "energetic"
+    ],
+    "description": "Sleek, high-energy hunting dog. Needs space and exercise."
+  },
+  {
+    "filename": "american-hairless-terrier.png",
+    "slug": "american-hairless-terrier",
+    "name": "American Hairless Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "hairless"
+    ],
+    "description": "Small, active, and hairless. Good for allergy-prone owners."
+  },
+  {
+    "filename": "american-pit-bull-terrier.png",
+    "slug": "american-pit-bull-terrier",
+    "name": "American Pit Bull Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "strong",
+      "energetic"
+    ],
+    "description": "Muscular, loyal, and playful. Needs firm, loving training."
+  },
+  {
+    "filename": "american-staffordshire-terrier.png",
+    "slug": "american-staffordshire-terrier",
+    "name": "American Staffordshire Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "strong"
+    ],
+    "description": "Sturdy, confident, and people-oriented. Needs socialization."
+  },
+  {
+    "filename": "american-water-spaniel.png",
+    "slug": "american-water-spaniel",
+    "name": "American Water Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "swimmer"
+    ],
+    "description": "Medium-sized, curly-haired, loves water and retrieving."
+  },
+  {
+    "filename": "anatolian-shepherd-dog.png",
+    "slug": "anatolian-shepherd-dog",
+    "name": "Anatolian Shepherd Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "large"
+    ],
+    "description": "Large, powerful livestock guardian. Independent and protective."
+  },
+  {
+    "filename": "appenzeller-sennenhund.png",
+    "slug": "appenzeller-sennenhund",
+    "name": "Appenzeller Sennenhund",
+    "tags": [
+      "mammal",
+      "dog",
+      "Swiss",
+      "working"
+    ],
+    "description": "Swiss herding and farm dog. Energetic, versatile, and loyal."
+  },
+  {
+    "filename": "australian-cattle-dog.png",
+    "slug": "australian-cattle-dog",
+    "name": "Australian Cattle Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "tough"
+    ],
+    "description": "Tough, smart, high-energy herding dog. Needs lots of activity."
+  },
+  {
+    "filename": "australian-shepherd.png",
+    "slug": "australian-shepherd",
+    "name": "Australian Shepherd",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "smart"
+    ],
+    "description": "Highly intelligent, energetic, loves to work and play. Great with families."
+  },
+  {
+    "filename": "australian-terrier.png",
+    "slug": "australian-terrier",
+    "name": "Australian Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "small"
+    ],
+    "description": "Small, sturdy terrier. Brave, alert, and good companion."
+  },
+  {
+    "filename": "austrian-black-and-tan-hound.png",
+    "slug": "austrian-black-and-tan-hound",
+    "name": "Austrian Black and Tan Hound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "scent"
+    ],
+    "description": "Scent hound bred for hunting. Calm, loyal, and determined."
+  },
+  {
+    "filename": "azawakh.png",
+    "slug": "azawakh",
+    "name": "Azawakh",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "slender"
+    ],
+    "description": "Elegant, slender sighthound. Fast, loyal, and reserved with strangers."
+  },
+  {
+    "filename": "barbet.png",
+    "slug": "barbet",
+    "name": "Barbet",
+    "tags": [
+      "mammal",
+      "dog",
+      "water",
+      "retriever"
+    ],
+    "description": "Curly-coated water dog. Friendly, playful, loves swimming."
+  },
+  {
+    "filename": "basenji.png",
+    "slug": "basenji",
+    "name": "Basenji",
+    "tags": [
+      "mammal",
+      "dog",
+      "barkless",
+      "hunter"
+    ],
+    "description": "Small, smart, \u201cbarkless\u201d dog. Clean and catlike, needs mental stimulation."
+  },
+  {
+    "filename": "basset-fauve-de-bretagne.png",
+    "slug": "basset-fauve-de-bretagne",
+    "name": "Basset Fauve de Bretagne",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "short-legged"
+    ],
+    "description": "Scent hound, low and sturdy. Affectionate and lively."
+  },
+  {
+    "filename": "basset-hound.png",
+    "slug": "basset-hound",
+    "name": "Basset Hound",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "droopy-ears"
+    ],
+    "description": "Famous for long ears, droopy look, and scent tracking. Easygoing."
+  },
+  {
+    "filename": "bavarian-mountain-scent-hound.png",
+    "slug": "bavarian-mountain-scent-hound",
+    "name": "Bavarian Mountain Scent Hound",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "tracker"
+    ],
+    "description": "Medium, focused scent-tracker. Calm, loyal, best with active owners."
+  },
+  {
+    "filename": "beagle.png",
+    "slug": "beagle",
+    "name": "Beagle",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "family"
+    ],
+    "description": "Small, friendly, scent hound. Loves food and adventure. Good family pet."
+  },
+  {
+    "filename": "bearded-collie.png",
+    "slug": "bearded-collie",
+    "name": "Bearded Collie",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "shaggy"
+    ],
+    "description": "Shaggy herder, cheerful and energetic. Needs room to run."
+  },
+  {
+    "filename": "beauceron.png",
+    "slug": "beauceron",
+    "name": "Beauceron",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "protector"
+    ],
+    "description": "Large, strong, French herding dog. Brave and loyal."
+  },
+  {
+    "filename": "bedlington-terrier.png",
+    "slug": "bedlington-terrier",
+    "name": "Bedlington Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "lamb-like"
+    ],
+    "description": "Unique lamb look, gentle but can be feisty. Good family dog."
+  },
+  {
+    "filename": "belgian-laekenois.png",
+    "slug": "belgian-laekenois",
+    "name": "Belgian Laekenois",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "Belgian"
+    ],
+    "description": "Rough-coated Belgian herder. Smart, alert, protective."
+  },
+  {
+    "filename": "belgian-malinois.png",
+    "slug": "belgian-malinois",
+    "name": "Belgian Malinois",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "working"
+    ],
+    "description": "Top working dog, often in police/military. Energetic, loyal, highly trainable."
+  },
+  {
+    "filename": "belgian-sheepdog.png",
+    "slug": "belgian-sheepdog",
+    "name": "Belgian Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "intelligent"
+    ],
+    "description": "Elegant, intelligent, and protective Belgian herding dog."
+  },
+  {
+    "filename": "belgian-tervuren.png",
+    "slug": "belgian-tervuren",
+    "name": "Belgian Tervuren",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "energetic"
+    ],
+    "description": "Long-haired, energetic Belgian herder. Needs lots of activity."
+  },
+  {
+    "filename": "bergamasco-sheepdog.png",
+    "slug": "bergamasco-sheepdog",
+    "name": "Bergamasco Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "dreadlocks"
+    ],
+    "description": "Famous for matted \u201cdreadlock\u201d coat. Calm, loyal herder."
+  },
+  {
+    "filename": "berger-picard.png",
+    "slug": "berger-picard",
+    "name": "Berger Picard",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "French"
+    ],
+    "description": "Shaggy French herding dog. Lively and independent."
+  },
+  {
+    "filename": "bernese-mountain-dog.png",
+    "slug": "bernese-mountain-dog",
+    "name": "Bernese Mountain Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "Swiss"
+    ],
+    "description": "Large, tri-colored Swiss mountain dog. Gentle, great family companion."
+  },
+  {
+    "filename": "bichon-frise.png",
+    "slug": "bichon-frise",
+    "name": "Bichon Fris\u00e9",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "fluffy"
+    ],
+    "description": "Small, white, fluffy. Playful, hypoallergenic, good for apartments."
+  },
+  {
+    "filename": "black-and-tan-coonhound.png",
+    "slug": "black-and-tan-coonhound",
+    "name": "Black and Tan Coonhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "hound"
+    ],
+    "description": "Big, bold scent hound. Loves tracking and outdoor life."
+  },
+  {
+    "filename": "black-russian-terrier.png",
+    "slug": "black-russian-terrier",
+    "name": "Black Russian Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "guardian"
+    ],
+    "description": "Large, powerful guard dog. Brave, loyal, bred for protection."
+  },
+  {
+    "filename": "bloodhound.png",
+    "slug": "bloodhound",
+    "name": "Bloodhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "scent",
+      "tracking"
+    ],
+    "description": "World-class tracking nose. Gentle but stubborn. Needs space."
+  },
+  {
+    "filename": "border-collie.png",
+    "slug": "border-collie",
+    "name": "Border Collie",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "smart"
+    ],
+    "description": "Arguably the smartest breed. High energy, herding, needs lots of stimulation."
+  },
+  {
+    "filename": "border-terrier.png",
+    "slug": "border-terrier",
+    "name": "Border Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "energetic"
+    ],
+    "description": "Small, scruffy, tough terrier. Lively, loves to dig and play."
+  },
+  {
+    "filename": "borzoi.png",
+    "slug": "borzoi",
+    "name": "Borzoi",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "elegant"
+    ],
+    "description": "Russian wolfhound. Graceful, fast, gentle. Can be aloof."
+  },
+  {
+    "filename": "boston-terrier.png",
+    "slug": "boston-terrier",
+    "name": "Boston Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "tuxedo"
+    ],
+    "description": "Small \u201cAmerican Gentleman\u201d dog. Friendly, smart, easygoing."
+  },
+  {
+    "filename": "bouvier-des-flandres.png",
+    "slug": "bouvier-des-flandres",
+    "name": "Bouvier des Flandres",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "robust"
+    ],
+    "description": "Large, rugged, farm dog. Steady, loyal, protective."
+  },
+  {
+    "filename": "boxer.png",
+    "slug": "boxer",
+    "name": "Boxer",
+    "tags": [
+      "mammal",
+      "dog",
+      "muscular",
+      "playful"
+    ],
+    "description": "Muscular, bouncy, clownish dog. Good with kids, high energy."
+  },
+  {
+    "filename": "boykin-spaniel.png",
+    "slug": "boykin-spaniel",
+    "name": "Boykin Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "retriever"
+    ],
+    "description": "Medium, brown spaniel. Friendly, loves water and retrieving."
+  },
+  {
+    "filename": "bracco-italiano.png",
+    "slug": "bracco-italiano",
+    "name": "Bracco Italiano",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "Italian"
+    ],
+    "description": "Sturdy Italian pointer. Calm, loyal, good nose for birds."
+  },
+  {
+    "filename": "briard.png",
+    "slug": "briard",
+    "name": "Briard",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "French"
+    ],
+    "description": "Shaggy, loyal French herder. Protective, independent, smart."
+  },
+  {
+    "filename": "brittany.png",
+    "slug": "brittany",
+    "name": "Brittany",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "energetic"
+    ],
+    "description": "Medium, orange-white bird dog. Energetic, social, loves to hunt."
+  },
+  {
+    "filename": "broholmer.png",
+    "slug": "broholmer",
+    "name": "Broholmer",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "Danish"
+    ],
+    "description": "Large, calm Danish mastiff. Gentle with family, protective."
+  },
+  {
+    "filename": "brussels-griffon.png",
+    "slug": "brussels-griffon",
+    "name": "Brussels Griffon",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "expressive"
+    ],
+    "description": "Tiny, \u201cmonkey face\u201d toy dog. Alert, sensitive, loves attention."
+  },
+  {
+    "filename": "bull-terrier.png",
+    "slug": "bull-terrier",
+    "name": "Bull Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "muscular",
+      "unique-head"
+    ],
+    "description": "Muscular, egg-shaped head. Playful, stubborn, loyal."
+  },
+  {
+    "filename": "bulldog.png",
+    "slug": "bulldog",
+    "name": "Bulldog",
+    "tags": [
+      "mammal",
+      "dog",
+      "stocky",
+      "wrinkled"
+    ],
+    "description": "Broad, wrinkly face. Laid-back, loving, needs gentle care."
+  },
+  {
+    "filename": "bullmastiff.png",
+    "slug": "bullmastiff",
+    "name": "Bullmastiff",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "guardian"
+    ],
+    "description": "Large, strong guard dog. Gentle giant with family, natural protector."
+  },
+  {
+    "filename": "cairn-terrier.png",
+    "slug": "cairn-terrier",
+    "name": "Cairn Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "small"
+    ],
+    "description": "Small, sturdy terrier. Lively, curious, and tough."
+  },
+  {
+    "filename": "canaan-dog.png",
+    "slug": "canaan-dog",
+    "name": "Canaan Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "alert",
+      "watchdog"
+    ],
+    "description": "Ancient, smart, natural watchdog. Wary of strangers, loyal to family."
+  },
+  {
+    "filename": "cane-corso.png",
+    "slug": "cane-corso",
+    "name": "Cane Corso",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "guardian"
+    ],
+    "description": "Powerful Italian mastiff. Protective, loyal, needs strong handling."
+  },
+  {
+    "filename": "cardigan-welsh-corgi.png",
+    "slug": "cardigan-welsh-corgi",
+    "name": "Cardigan Welsh Corgi",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "long-tail"
+    ],
+    "description": "Long-tailed Corgi. Smart, loyal, and energetic herder."
+  },
+  {
+    "filename": "carolina-dog.png",
+    "slug": "carolina-dog",
+    "name": "Carolina Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "primitive",
+      "independent"
+    ],
+    "description": "Primitive, \u201cAmerican Dingo.\u201d Intelligent, reserved, loyal."
+  },
+  {
+    "filename": "catahoula-leopard-dog.png",
+    "slug": "catahoula-leopard-dog",
+    "name": "Catahoula Leopard Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "spotted",
+      "working"
+    ],
+    "description": "Spotted, tough, versatile working dog. Needs challenge and space."
+  },
+  {
+    "filename": "caucasian-shepherd-dog.png",
+    "slug": "caucasian-shepherd-dog",
+    "name": "Caucasian Shepherd Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "guardian"
+    ],
+    "description": "Massive, powerful flock guardian. Protective and independent."
+  },
+  {
+    "filename": "cavalier-king-charles-spaniel.png",
+    "slug": "cavalier-king-charles-spaniel",
+    "name": "Cavalier King Charles Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "friendly"
+    ],
+    "description": "Small, affectionate, elegant lapdog. Gentle and social."
+  },
+  {
+    "filename": "central-asian-shepherd-dog.png",
+    "slug": "central-asian-shepherd-dog",
+    "name": "Central Asian Shepherd Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "large"
+    ],
+    "description": "Large, rugged guardian breed. Loyal, calm, needs strong leadership."
+  },
+  {
+    "filename": "cesky-terrier.png",
+    "slug": "cesky-terrier",
+    "name": "Cesky Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "Czech"
+    ],
+    "description": "Rare Czech terrier. Calm, loyal, good for families."
+  },
+  {
+    "filename": "chesapeake-bay-retriever.png",
+    "slug": "chesapeake-bay-retriever",
+    "name": "Chesapeake Bay Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "swimmer"
+    ],
+    "description": "Strong, rugged water retriever. Loyal, needs exercise."
+  },
+  {
+    "filename": "chihuahua.png",
+    "slug": "chihuahua",
+    "name": "Chihuahua",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "tiny"
+    ],
+    "description": "Tiny but bold. Lively, loyal, can be feisty."
+  },
+  {
+    "filename": "chinese-crested.png",
+    "slug": "chinese-crested",
+    "name": "Chinese Crested",
+    "tags": [
+      "mammal",
+      "dog",
+      "hairless",
+      "toy"
+    ],
+    "description": "Hairless or powderpuff. Affectionate, quirky, playful."
+  },
+  {
+    "filename": "chinese-shar-pei.png",
+    "slug": "chinese-shar-pei",
+    "name": "Chinese Shar-Pei",
+    "tags": [
+      "mammal",
+      "dog",
+      "wrinkled",
+      "guard"
+    ],
+    "description": "Distinct wrinkly skin. Calm, loyal, can be stubborn."
+  },
+  {
+    "filename": "chinook.png",
+    "slug": "chinook",
+    "name": "Chinook",
+    "tags": [
+      "mammal",
+      "dog",
+      "sled",
+      "friendly"
+    ],
+    "description": "Rare sled dog, gentle and friendly. Good with families."
+  },
+  {
+    "filename": "chow-chow.png",
+    "slug": "chow-chow",
+    "name": "Chow Chow",
+    "tags": [
+      "mammal",
+      "dog",
+      "fluffy",
+      "aloof"
+    ],
+    "description": "Lion-like, fluffy. Independent, loyal, often reserved."
+  },
+  {
+    "filename": "cirneco-dell-etna.png",
+    "slug": "cirneco-dell-etna",
+    "name": "Cirneco dell\u2019Etna",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "Italian"
+    ],
+    "description": "Slender Sicilian hound. Agile, alert, low maintenance."
+  },
+  {
+    "filename": "clumber-spaniel.png",
+    "slug": "clumber-spaniel",
+    "name": "Clumber Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "heavy"
+    ],
+    "description": "Large, gentle spaniel. Calm, steady, affectionate."
+  },
+  {
+    "filename": "cockapoo.png",
+    "slug": "cockapoo",
+    "name": "Cockapoo",
+    "tags": [
+      "mammal",
+      "dog",
+      "mix",
+      "companion"
+    ],
+    "description": "Poodle-Cocker mix. Friendly, smart, popular family pet."
+  },
+  {
+    "filename": "cocker-spaniel-english.png",
+    "slug": "cocker-spaniel-english",
+    "name": "Cocker Spaniel (English)",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "playful"
+    ],
+    "description": "Cheerful, affectionate, active. Loves attention and play."
+  },
+  {
+    "filename": "collie.png",
+    "slug": "collie",
+    "name": "Collie",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "family"
+    ],
+    "description": "Graceful, devoted herding dog. Great with kids. Famous for \u201cLassie.\u201d"
+  },
+  {
+    "filename": "coton-de-tulear.png",
+    "slug": "coton-de-tulear",
+    "name": "Coton de Tulear",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "fluffy"
+    ],
+    "description": "Fluffy, happy companion from Madagascar. Affectionate and lively."
+  },
+  {
+    "filename": "curly-coated-retriever.png",
+    "slug": "curly-coated-retriever",
+    "name": "Curly-Coated Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "curly"
+    ],
+    "description": "Distinct curly coat. Energetic, smart, loves water."
+  },
+  {
+    "filename": "dachshund.png",
+    "slug": "dachshund",
+    "name": "Dachshund",
+    "tags": [
+      "mammal",
+      "dog",
+      "short-legged",
+      "bold"
+    ],
+    "description": "\u201cWiener dog.\u201d Bold, playful, stubborn. Loyal to family."
+  },
+  {
+    "filename": "dalmatian.png",
+    "slug": "dalmatian",
+    "name": "Dalmatian",
+    "tags": [
+      "mammal",
+      "dog",
+      "spotted",
+      "energetic"
+    ],
+    "description": "Iconic spots. Athletic, smart, needs plenty of exercise."
+  },
+  {
+    "filename": "dandie-dinmont-terrier.png",
+    "slug": "dandie-dinmont-terrier",
+    "name": "Dandie Dinmont Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "unique"
+    ],
+    "description": "Long-bodied, rare terrier. Gentle, affectionate, stubborn."
+  },
+  {
+    "filename": "doberman-pinscher.png",
+    "slug": "doberman-pinscher",
+    "name": "Doberman Pinscher",
+    "tags": [
+      "mammal",
+      "dog",
+      "guard",
+      "sleek"
+    ],
+    "description": "Sleek, powerful, alert guard dog. Loyal and protective."
+  },
+  {
+    "filename": "dogo-argentino.png",
+    "slug": "dogo-argentino",
+    "name": "Dogo Argentino",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "hunter"
+    ],
+    "description": "Strong, muscular hunter. Confident, needs experienced owner."
+  },
+  {
+    "filename": "dogue-de-bordeaux.png",
+    "slug": "dogue-de-bordeaux",
+    "name": "Dogue de Bordeaux",
+    "tags": [
+      "mammal",
+      "dog",
+      "mastiff",
+      "French"
+    ],
+    "description": "Massive, wrinkly French mastiff. Gentle but protective."
+  },
+  {
+    "filename": "drentsche-patrijshond.png",
+    "slug": "drentsche-patrijshond",
+    "name": "Drentsche Patrijshond",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "Dutch"
+    ],
+    "description": "Dutch gundog. Energetic, friendly, good with kids."
+  },
+  {
+    "filename": "drever.png",
+    "slug": "drever",
+    "name": "Drever",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "Swedish"
+    ],
+    "description": "Swedish scenthound. Calm, sturdy, good for hunting and home."
+  },
+  {
+    "filename": "dutch-shepherd.png",
+    "slug": "dutch-shepherd",
+    "name": "Dutch Shepherd",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "smart"
+    ],
+    "description": "Smart, athletic, versatile herding dog. Needs mental and physical stimulation."
+  },
+  {
+    "filename": "english-bulldog.png",
+    "slug": "english-bulldog",
+    "name": "English Bulldog",
+    "tags": [
+      "mammal",
+      "dog",
+      "stocky",
+      "wrinkled"
+    ],
+    "description": "Sturdy, wrinkled, friendly. Laid-back and good with families."
+  },
+  {
+    "filename": "english-cocker-spaniel.png",
+    "slug": "english-cocker-spaniel",
+    "name": "English Cocker Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "cheerful"
+    ],
+    "description": "Happy, lively, affectionate spaniel. Loves to play and explore."
+  },
+  {
+    "filename": "english-foxhound.png",
+    "slug": "english-foxhound",
+    "name": "English Foxhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "hunter"
+    ],
+    "description": "Traditional fox hunter. Athletic, energetic, needs exercise."
+  },
+  {
+    "filename": "english-setter.png",
+    "slug": "english-setter",
+    "name": "English Setter",
+    "tags": [
+      "mammal",
+      "dog",
+      "setter",
+      "elegant"
+    ],
+    "description": "Elegant bird dog. Gentle, friendly, good with kids."
+  },
+  {
+    "filename": "english-shepherd.png",
+    "slug": "english-shepherd",
+    "name": "English Shepherd",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "smart"
+    ],
+    "description": "Versatile, intelligent herder. Loyal and adaptable."
+  },
+  {
+    "filename": "english-springer-spaniel.png",
+    "slug": "english-springer-spaniel",
+    "name": "English Springer Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "active"
+    ],
+    "description": "Energetic, friendly, classic spaniel. Loves outdoor play and water."
+  },
+  {
+    "filename": "english-toy-spaniel.png",
+    "slug": "english-toy-spaniel",
+    "name": "English Toy Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "companion"
+    ],
+    "description": "Small, loving lapdog. Affectionate, gentle, ideal companion."
+  },
+  {
+    "filename": "entlebucher-mountain-dog.png",
+    "slug": "entlebucher-mountain-dog",
+    "name": "Entlebucher Mountain Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "Swiss",
+      "herder"
+    ],
+    "description": "Swiss herder. Medium size, active, loyal, and versatile."
+  },
+  {
+    "filename": "estrela-mountain-dog.png",
+    "slug": "estrela-mountain-dog",
+    "name": "Estrela Mountain Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "large"
+    ],
+    "description": "Big, tough livestock guardian. Protective and devoted."
+  },
+  {
+    "filename": "field-spaniel.png",
+    "slug": "field-spaniel",
+    "name": "Field Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "smart"
+    ],
+    "description": "Medium spaniel. Gentle, intelligent, calm. Loves family life."
+  },
+  {
+    "filename": "finnish-lapphund.png",
+    "slug": "finnish-lapphund",
+    "name": "Finnish Lapphund",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "herder"
+    ],
+    "description": "Friendly, fluffy herder from Finland. Loves cold and family."
+  },
+  {
+    "filename": "finnish-spitz.png",
+    "slug": "finnish-spitz",
+    "name": "Finnish Spitz",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "foxlike"
+    ],
+    "description": "Fox-like, lively, known for \u201cbarking bird dog.\u201d Active and playful."
+  },
+  {
+    "filename": "flat-coated-retriever.png",
+    "slug": "flat-coated-retriever",
+    "name": "Flat-Coated Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "friendly"
+    ],
+    "description": "Cheerful, energetic retriever. Loves people, needs lots of activity."
+  },
+  {
+    "filename": "french-bulldog.png",
+    "slug": "french-bulldog",
+    "name": "French Bulldog",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "playful"
+    ],
+    "description": "Compact, bat-eared, playful companion. Adapts well to city life."
+  },
+  {
+    "filename": "german-longhaired-pointer.png",
+    "slug": "german-longhaired-pointer",
+    "name": "German Longhaired Pointer",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "versatile"
+    ],
+    "description": "Elegant, all-purpose German hunting dog. Loyal and adaptable."
+  },
+  {
+    "filename": "german-pinscher.png",
+    "slug": "german-pinscher",
+    "name": "German Pinscher",
+    "tags": [
+      "mammal",
+      "dog",
+      "smart",
+      "medium"
+    ],
+    "description": "Medium, athletic, alert watchdog. Confident and loyal."
+  },
+  {
+    "filename": "german-shepherd-dog.png",
+    "slug": "german-shepherd-dog",
+    "name": "German Shepherd Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "working",
+      "intelligent"
+    ],
+    "description": "Highly trainable, loyal, protective. Top police/military dog."
+  },
+  {
+    "filename": "german-shorthaired-pointer.png",
+    "slug": "german-shorthaired-pointer",
+    "name": "German Shorthaired Pointer",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "active"
+    ],
+    "description": "Versatile, energetic hunting dog. Needs lots of exercise."
+  },
+  {
+    "filename": "german-spitz.png",
+    "slug": "german-spitz",
+    "name": "German Spitz",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "fluffy"
+    ],
+    "description": "Fluffy, alert, lively. Good companion, loyal watchdog."
+  },
+  {
+    "filename": "german-wirehaired-pointer.png",
+    "slug": "german-wirehaired-pointer",
+    "name": "German Wirehaired Pointer",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "rugged"
+    ],
+    "description": "Rugged, hardworking, energetic pointer. Needs activity."
+  },
+  {
+    "filename": "giant-schnauzer.png",
+    "slug": "giant-schnauzer",
+    "name": "Giant Schnauzer",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "working"
+    ],
+    "description": "Largest schnauzer. Protective, smart, loyal. Needs strong leadership."
+  },
+  {
+    "filename": "glen-of-imaal-terrier.png",
+    "slug": "glen-of-imaal-terrier",
+    "name": "Glen of Imaal Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "Irish"
+    ],
+    "description": "Rare Irish terrier. Tough, low to ground, gentle with family."
+  },
+  {
+    "filename": "golden-retriever.png",
+    "slug": "golden-retriever",
+    "name": "Golden Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "friendly"
+    ],
+    "description": "Famous for friendly, gentle nature. Great with kids, eager to please."
+  },
+  {
+    "filename": "gordon-setter.png",
+    "slug": "gordon-setter",
+    "name": "Gordon Setter",
+    "tags": [
+      "mammal",
+      "dog",
+      "setter",
+      "black-tan"
+    ],
+    "description": "Large, black-and-tan setter. Strong, loyal, loves running."
+  },
+  {
+    "filename": "grand-bleu-de-gascogne.png",
+    "slug": "grand-bleu-de-gascogne",
+    "name": "Grand Bleu de Gascogne",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "French"
+    ],
+    "description": "Large, deep-voiced French scent hound. Steady and brave."
+  },
+  {
+    "filename": "great-dane.png",
+    "slug": "great-dane",
+    "name": "Great Dane",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "gentle"
+    ],
+    "description": "\u201cGentle giant.\u201d Very large, friendly, and patient."
+  },
+  {
+    "filename": "great-pyrenees.png",
+    "slug": "great-pyrenees",
+    "name": "Great Pyrenees",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "fluffy"
+    ],
+    "description": "Large, white, fluffy guardian. Calm, protective, loves outdoors."
+  },
+  {
+    "filename": "greater-swiss-mountain-dog.png",
+    "slug": "greater-swiss-mountain-dog",
+    "name": "Greater Swiss Mountain Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "Swiss",
+      "large"
+    ],
+    "description": "Large, tri-colored Swiss dog. Strong, versatile, loves work."
+  },
+  {
+    "filename": "greyhound.png",
+    "slug": "greyhound",
+    "name": "Greyhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "fast"
+    ],
+    "description": "Slim, super-fast sprinter. Gentle, calm, low-maintenance indoors."
+  },
+  {
+    "filename": "hamiltonstovare.png",
+    "slug": "hamiltonstovare",
+    "name": "Hamiltonstovare",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "Swedish"
+    ],
+    "description": "Swedish hound. Sturdy, energetic, loves the outdoors."
+  },
+  {
+    "filename": "harrier.png",
+    "slug": "harrier",
+    "name": "Harrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "energetic"
+    ],
+    "description": "Medium hound, strong nose, friendly, needs exercise."
+  },
+  {
+    "filename": "havanese.png",
+    "slug": "havanese",
+    "name": "Havanese",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "companion"
+    ],
+    "description": "Small, silky companion. Social, playful, good for families."
+  },
+  {
+    "filename": "irish-setter.png",
+    "slug": "irish-setter",
+    "name": "Irish Setter",
+    "tags": [
+      "mammal",
+      "dog",
+      "setter",
+      "red"
+    ],
+    "description": "Striking red coat. Energetic, loves running, affectionate."
+  },
+  {
+    "filename": "irish-terrier.png",
+    "slug": "irish-terrier",
+    "name": "Irish Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "bold"
+    ],
+    "description": "Fiery, loyal terrier. Fearless and affectionate."
+  },
+  {
+    "filename": "irish-water-spaniel.png",
+    "slug": "irish-water-spaniel",
+    "name": "Irish Water Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "curly"
+    ],
+    "description": "Curly-coated, water-loving spaniel. Playful, smart, energetic."
+  },
+  {
+    "filename": "irish-wolfhound.png",
+    "slug": "irish-wolfhound",
+    "name": "Irish Wolfhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "gentle"
+    ],
+    "description": "Tallest dog breed. Calm, loyal, gentle with family."
+  },
+  {
+    "filename": "italian-greyhound.png",
+    "slug": "italian-greyhound",
+    "name": "Italian Greyhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "small"
+    ],
+    "description": "Petite, elegant, fast. Affectionate and sensitive."
+  },
+  {
+    "filename": "jack-russell-terrier.png",
+    "slug": "jack-russell-terrier",
+    "name": "Jack Russell Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "lively"
+    ],
+    "description": "Small, bold, lively terrier. Tireless and loves to dig."
+  },
+  {
+    "filename": "japanese-chin.png",
+    "slug": "japanese-chin",
+    "name": "Japanese Chin",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "catlike"
+    ],
+    "description": "Small, elegant, catlike toy dog. Quiet, affectionate, refined."
+  },
+  {
+    "filename": "japanese-spitz.png",
+    "slug": "japanese-spitz",
+    "name": "Japanese Spitz",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "fluffy"
+    ],
+    "description": "Small, white, fluffy. Cheerful, social, adaptable."
+  },
+  {
+    "filename": "keeshond.png",
+    "slug": "keeshond",
+    "name": "Keeshond",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "companion"
+    ],
+    "description": "Fluffy, alert, social. Great watchdog and family pet."
+  },
+  {
+    "filename": "kerry-blue-terrier.png",
+    "slug": "kerry-blue-terrier",
+    "name": "Kerry Blue Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "blue"
+    ],
+    "description": "Blue-grey coat, lively, loyal, and strong-willed."
+  },
+  {
+    "filename": "king-charles-spaniel.png",
+    "slug": "king-charles-spaniel",
+    "name": "King Charles Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "companion"
+    ],
+    "description": "Gentle, affectionate, small lapdog. Loves attention."
+  },
+  {
+    "filename": "kishu-ken.png",
+    "slug": "kishu-ken",
+    "name": "Kishu Ken",
+    "tags": [
+      "mammal",
+      "dog",
+      "Japanese",
+      "hunter"
+    ],
+    "description": "Ancient Japanese hunter. Reserved, loyal, independent."
+  },
+  {
+    "filename": "komondor.png",
+    "slug": "komondor",
+    "name": "Komondor",
+    "tags": [
+      "mammal",
+      "dog",
+      "mop-coat",
+      "guardian"
+    ],
+    "description": "Large, mop-like corded coat. Natural livestock guardian, calm."
+  },
+  {
+    "filename": "kromfohrlander.png",
+    "slug": "kromfohrlander",
+    "name": "Kromfohrl\u00e4nder",
+    "tags": [
+      "mammal",
+      "dog",
+      "rare",
+      "companion"
+    ],
+    "description": "Rare German companion dog. Friendly, adaptable, active."
+  },
+  {
+    "filename": "kuvasz.png",
+    "slug": "kuvasz",
+    "name": "Kuvasz",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "guardian"
+    ],
+    "description": "Powerful Hungarian guardian. Loyal, smart, independent."
+  },
+  {
+    "filename": "labrador-retriever.png",
+    "slug": "labrador-retriever",
+    "name": "Labrador Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "friendly"
+    ],
+    "description": "Most popular breed. Friendly, outgoing, loves to retrieve and swim."
+  },
+  {
+    "filename": "lagotto-romagnolo.png",
+    "slug": "lagotto-romagnolo",
+    "name": "Lagotto Romagnolo",
+    "tags": [
+      "mammal",
+      "dog",
+      "curly",
+      "truffle"
+    ],
+    "description": "Curly-haired, truffle hunter. Smart, active, affectionate."
+  },
+  {
+    "filename": "lakeland-terrier.png",
+    "slug": "lakeland-terrier",
+    "name": "Lakeland Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "lively"
+    ],
+    "description": "Small, lively, confident terrier. Needs activity."
+  },
+  {
+    "filename": "lancashire-heeler.png",
+    "slug": "lancashire-heeler",
+    "name": "Lancashire Heeler",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "herder"
+    ],
+    "description": "Small, energetic cattle dog. Alert, spirited, loyal."
+  },
+  {
+    "filename": "leonberger.png",
+    "slug": "leonberger",
+    "name": "Leonberger",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "gentle"
+    ],
+    "description": "Massive, gentle, friendly. Good with kids, likes swimming."
+  },
+  {
+    "filename": "lhasa-apso.png",
+    "slug": "lhasa-apso",
+    "name": "Lhasa Apso",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "long-haired"
+    ],
+    "description": "Small, long-haired watchdog. Loyal, independent, protective."
+  },
+  {
+    "filename": "lowchen.png",
+    "slug": "lowchen",
+    "name": "L\u00f6wchen",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "companion"
+    ],
+    "description": "\u201cLittle Lion Dog.\u201d Rare, lively, affectionate."
+  },
+  {
+    "filename": "maltese.png",
+    "slug": "maltese",
+    "name": "Maltese",
+    "tags": [
+      "mammal",
+      "dog",
+      "tiny",
+      "companion"
+    ],
+    "description": "Tiny, white, silky coat. Playful, affectionate, good for apartments."
+  },
+  {
+    "filename": "manchester-terrier.png",
+    "slug": "manchester-terrier",
+    "name": "Manchester Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "sleek"
+    ],
+    "description": "Sleek, agile, lively terrier. Confident and smart."
+  },
+  {
+    "filename": "maremma-sheepdog.png",
+    "slug": "maremma-sheepdog",
+    "name": "Maremma Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "white"
+    ],
+    "description": "Large, white Italian flock guardian. Calm and loyal."
+  },
+  {
+    "filename": "mastiff.png",
+    "slug": "mastiff",
+    "name": "Mastiff",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "guardian"
+    ],
+    "description": "Giant, powerful guard dog. Gentle with family, natural protector."
+  },
+  {
+    "filename": "miniature-american-shepherd.png",
+    "slug": "miniature-american-shepherd",
+    "name": "Miniature American Shepherd",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "small"
+    ],
+    "description": "Small herder, smart, agile, loyal. Great with active families."
+  },
+  {
+    "filename": "miniature-bull-terrier.png",
+    "slug": "miniature-bull-terrier",
+    "name": "Miniature Bull Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "playful"
+    ],
+    "description": "Compact, playful, egg-shaped head. Fun-loving, energetic."
+  },
+  {
+    "filename": "miniature-pinscher.png",
+    "slug": "miniature-pinscher",
+    "name": "Miniature Pinscher",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "energetic"
+    ],
+    "description": "Small, sleek \u201cKing of Toys.\u201d Fearless and lively."
+  },
+  {
+    "filename": "miniature-schnauzer.png",
+    "slug": "miniature-schnauzer",
+    "name": "Miniature Schnauzer",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "smart"
+    ],
+    "description": "Small, smart, friendly, energetic. Distinct beard and eyebrows."
+  },
+  {
+    "filename": "neapolitan-mastiff.png",
+    "slug": "neapolitan-mastiff",
+    "name": "Neapolitan Mastiff",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "wrinkled"
+    ],
+    "description": "Giant, wrinkly, intimidating. Protective, calm with family."
+  },
+  {
+    "filename": "newfoundland.png",
+    "slug": "newfoundland",
+    "name": "Newfoundland",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "swimmer"
+    ],
+    "description": "Massive, gentle water dog. Loves kids, strong swimmer."
+  },
+  {
+    "filename": "norfolk-terrier.png",
+    "slug": "norfolk-terrier",
+    "name": "Norfolk Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "small"
+    ],
+    "description": "Small, bold, friendly terrier. Loves adventure."
+  },
+  {
+    "filename": "norrbottenspets.png",
+    "slug": "norrbottenspets",
+    "name": "Norrbottenspets",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "Swedish"
+    ],
+    "description": "Rare Swedish spitz. Alert, active, good hunter."
+  },
+  {
+    "filename": "norwegian-buhund.png",
+    "slug": "norwegian-buhund",
+    "name": "Norwegian Buhund",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "herder"
+    ],
+    "description": "Spitz herder from Norway. Energetic, smart, loyal."
+  },
+  {
+    "filename": "norwegian-elkhound.png",
+    "slug": "norwegian-elkhound",
+    "name": "Norwegian Elkhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "spitz",
+      "hunter"
+    ],
+    "description": "Hardy, grey hunting spitz. Brave, loyal, energetic."
+  },
+  {
+    "filename": "norwegian-lundehund.png",
+    "slug": "norwegian-lundehund",
+    "name": "Norwegian Lundehund",
+    "tags": [
+      "mammal",
+      "dog",
+      "rare",
+      "flexible"
+    ],
+    "description": "Unique, flexible toes. Rare, agile, quirky companion."
+  },
+  {
+    "filename": "norwich-terrier.png",
+    "slug": "norwich-terrier",
+    "name": "Norwich Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "small"
+    ],
+    "description": "Small, scruffy, energetic. Friendly, good with families."
+  },
+  {
+    "filename": "nova-scotia-duck-tolling-retriever.png",
+    "slug": "nova-scotia-duck-tolling-retriever",
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "tags": [
+      "mammal",
+      "dog",
+      "retriever",
+      "active"
+    ],
+    "description": "Medium, energetic, loves water and retrieving. Fun family dog."
+  },
+  {
+    "filename": "old-english-sheepdog.png",
+    "slug": "old-english-sheepdog",
+    "name": "Old English Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "shaggy",
+      "herder"
+    ],
+    "description": "Large, shaggy, playful herder. Gentle and affectionate."
+  },
+  {
+    "filename": "otterhound.png",
+    "slug": "otterhound",
+    "name": "Otterhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "swimmer"
+    ],
+    "description": "Large, shaggy, water-loving scent hound. Cheerful, independent."
+  },
+  {
+    "filename": "papillon.png",
+    "slug": "papillon",
+    "name": "Papillon",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "butterfly-ears"
+    ],
+    "description": "Tiny, lively, butterfly-eared companion. Smart and alert."
+  },
+  {
+    "filename": "pekingese.png",
+    "slug": "pekingese",
+    "name": "Pekingese",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "fluffy"
+    ],
+    "description": "Regal, fluffy toy dog. Loyal, independent, can be stubborn."
+  },
+  {
+    "filename": "pembroke-welsh-corgi.png",
+    "slug": "pembroke-welsh-corgi",
+    "name": "Pembroke Welsh Corgi",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "tailless"
+    ],
+    "description": "Short, tailless Corgi. Energetic, smart, good family dog."
+  },
+  {
+    "filename": "perro-de-presa-canario.png",
+    "slug": "perro-de-presa-canario",
+    "name": "Perro de Presa Canario",
+    "tags": [
+      "mammal",
+      "dog",
+      "mastiff",
+      "guardian"
+    ],
+    "description": "Large, muscular, natural guardian. Needs experienced handler."
+  },
+  {
+    "filename": "petit-basset-griffon-vendeen.png",
+    "slug": "petit-basset-griffon-vendeen",
+    "name": "Petit Basset Griffon Vend\u00e9en",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "small"
+    ],
+    "description": "Short, shaggy French scent hound. Happy, curious, lively."
+  },
+  {
+    "filename": "pharaoh-hound.png",
+    "slug": "pharaoh-hound",
+    "name": "Pharaoh Hound",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "elegant"
+    ],
+    "description": "Sleek, elegant, ancient sighthound. Friendly and graceful."
+  },
+  {
+    "filename": "plott.png",
+    "slug": "plott",
+    "name": "Plott",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "hunter"
+    ],
+    "description": "Rugged American hound. Tough, brave, loves hunting."
+  },
+  {
+    "filename": "pointer.png",
+    "slug": "pointer",
+    "name": "Pointer",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "athletic"
+    ],
+    "description": "Lean, powerful bird dog. Energetic, loyal, needs exercise."
+  },
+  {
+    "filename": "polish-lowland-sheepdog.png",
+    "slug": "polish-lowland-sheepdog",
+    "name": "Polish Lowland Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "shaggy"
+    ],
+    "description": "Medium, shaggy, hard-working herder. Loyal and lively."
+  },
+  {
+    "filename": "pomeranian.png",
+    "slug": "pomeranian",
+    "name": "Pomeranian",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "fluffy"
+    ],
+    "description": "Tiny, fluffy, fox-like. Bold, lively, needs regular grooming."
+  },
+  {
+    "filename": "poodle-miniature.png",
+    "slug": "poodle-miniature",
+    "name": "Poodle (Miniature)",
+    "tags": [
+      "mammal",
+      "dog",
+      "poodle",
+      "smart"
+    ],
+    "description": "Smart, athletic, hypoallergenic. Medium size, easy to train."
+  },
+  {
+    "filename": "poodle-standard.png",
+    "slug": "poodle-standard",
+    "name": "Poodle (Standard)",
+    "tags": [
+      "mammal",
+      "dog",
+      "poodle",
+      "large"
+    ],
+    "description": "Large, elegant, very smart, versatile. Great swimmer and performer."
+  },
+  {
+    "filename": "poodle-toy.png",
+    "slug": "poodle-toy",
+    "name": "Poodle (Toy)",
+    "tags": [
+      "mammal",
+      "dog",
+      "poodle",
+      "tiny"
+    ],
+    "description": "Smallest poodle, playful, smart, good for apartments."
+  },
+  {
+    "filename": "portuguese-water-dog.png",
+    "slug": "portuguese-water-dog",
+    "name": "Portuguese Water Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "curly",
+      "swimmer"
+    ],
+    "description": "Curly, strong swimmer. Smart, loyal, active, loves water."
+  },
+  {
+    "filename": "presa-canario.png",
+    "slug": "presa-canario",
+    "name": "Pres\u0103 Canario",
+    "tags": [
+      "mammal",
+      "dog",
+      "mastiff",
+      "guardian"
+    ],
+    "description": "Large, powerful mastiff. Protective, needs firm owner."
+  },
+  {
+    "filename": "pug.png",
+    "slug": "pug",
+    "name": "Pug",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "wrinkled"
+    ],
+    "description": "Comical, wrinkly face. Small, friendly, loves people."
+  },
+  {
+    "filename": "puli.png",
+    "slug": "puli",
+    "name": "Puli",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "corded-coat"
+    ],
+    "description": "Small, mop-like cords. Agile, energetic herder."
+  },
+  {
+    "filename": "pumi.png",
+    "slug": "pumi",
+    "name": "Pumi",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "curly"
+    ],
+    "description": "Small, curly Hungarian herder. Lively, smart, vocal."
+  },
+  {
+    "filename": "pyrenean-shepherd.png",
+    "slug": "pyrenean-shepherd",
+    "name": "Pyrenean Shepherd",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "small"
+    ],
+    "description": "Energetic, small French herder. Fast and smart."
+  },
+  {
+    "filename": "rat-terrier.png",
+    "slug": "rat-terrier",
+    "name": "Rat Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "lively"
+    ],
+    "description": "Small, tough, energetic. Great vermin hunter."
+  },
+  {
+    "filename": "redbone-coonhound.png",
+    "slug": "redbone-coonhound",
+    "name": "Redbone Coonhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "red"
+    ],
+    "description": "Sleek, red-coated hound. Energetic, loves tracking."
+  },
+  {
+    "filename": "rhodesian-ridgeback.png",
+    "slug": "rhodesian-ridgeback",
+    "name": "Rhodesian Ridgeback",
+    "tags": [
+      "mammal",
+      "dog",
+      "large",
+      "hunter"
+    ],
+    "description": "Large, athletic, distinctive ridge. Confident, loyal, needs exercise."
+  },
+  {
+    "filename": "rottweiler.png",
+    "slug": "rottweiler",
+    "name": "Rottweiler",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "strong"
+    ],
+    "description": "Powerful, confident guardian. Loyal, needs experienced owner."
+  },
+  {
+    "filename": "saint-bernard.png",
+    "slug": "saint-bernard",
+    "name": "Saint Bernard",
+    "tags": [
+      "mammal",
+      "dog",
+      "giant",
+      "gentle"
+    ],
+    "description": "Giant, gentle Swiss rescue dog. Calm, affectionate, needs space."
+  },
+  {
+    "filename": "saluki.png",
+    "slug": "saluki",
+    "name": "Saluki",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "elegant"
+    ],
+    "description": "Graceful, ancient sighthound. Fast, gentle, reserved."
+  },
+  {
+    "filename": "samoyed.png",
+    "slug": "samoyed",
+    "name": "Samoyed",
+    "tags": [
+      "mammal",
+      "dog",
+      "fluffy",
+      "white"
+    ],
+    "description": "Large, white, fluffy dog. Friendly, great for cold climates."
+  },
+  {
+    "filename": "schipperke.png",
+    "slug": "schipperke",
+    "name": "Schipperke",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "spitz"
+    ],
+    "description": "Small, foxlike, alert. Fearless, energetic watchdog."
+  },
+  {
+    "filename": "scottish-deerhound.png",
+    "slug": "scottish-deerhound",
+    "name": "Scottish Deerhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "giant"
+    ],
+    "description": "Tall, wiry-coated sighthound. Gentle, needs space."
+  },
+  {
+    "filename": "scottish-terrier.png",
+    "slug": "scottish-terrier",
+    "name": "Scottish Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "small"
+    ],
+    "description": "Distinctive bearded look. Bold, loyal, independent."
+  },
+  {
+    "filename": "sealyham-terrier.png",
+    "slug": "sealyham-terrier",
+    "name": "Sealyham Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "white"
+    ],
+    "description": "Small, white, rare terrier. Playful, affectionate, needs socializing."
+  },
+  {
+    "filename": "shetland-sheepdog.png",
+    "slug": "shetland-sheepdog",
+    "name": "Shetland Sheepdog",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "fluffy"
+    ],
+    "description": "Small, smart, fluffy herder. Loyal and eager to please."
+  },
+  {
+    "filename": "shiba-inu.png",
+    "slug": "shiba-inu",
+    "name": "Shiba Inu",
+    "tags": [
+      "mammal",
+      "dog",
+      "Japanese",
+      "foxlike"
+    ],
+    "description": "Small, foxlike, independent. Spirited and clean."
+  },
+  {
+    "filename": "shih-tzu.png",
+    "slug": "shih-tzu",
+    "name": "Shih Tzu",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "long-haired"
+    ],
+    "description": "Toy breed, long hair. Affectionate, charming, needs grooming."
+  },
+  {
+    "filename": "siberian-husky.png",
+    "slug": "siberian-husky",
+    "name": "Siberian Husky",
+    "tags": [
+      "mammal",
+      "dog",
+      "sled",
+      "energetic"
+    ],
+    "description": "Athletic, high-energy sled dog. Friendly, mischievous, loves cold."
+  },
+  {
+    "filename": "silky-terrier.png",
+    "slug": "silky-terrier",
+    "name": "Silky Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "silky"
+    ],
+    "description": "Small, silky-haired terrier. Lively and confident."
+  },
+  {
+    "filename": "skye-terrier.png",
+    "slug": "skye-terrier",
+    "name": "Skye Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "long"
+    ],
+    "description": "Long-bodied, flowing coat. Loyal, dignified, can be reserved."
+  },
+  {
+    "filename": "sloughi.png",
+    "slug": "sloughi",
+    "name": "Sloughi",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "North-African"
+    ],
+    "description": "Sleek, sensitive North African sighthound. Calm, loyal, needs gentle handling."
+  },
+  {
+    "filename": "small-munsterlander-pointer.png",
+    "slug": "small-munsterlander-pointer",
+    "name": "Small Munsterlander Pointer",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "versatile"
+    ],
+    "description": "Versatile, medium pointer. Social, active, loves hunting and swimming."
+  },
+  {
+    "filename": "smooth-fox-terrier.png",
+    "slug": "smooth-fox-terrier",
+    "name": "Smooth Fox Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "lively"
+    ],
+    "description": "Classic, lively terrier. Bold, energetic, good for active owners."
+  },
+  {
+    "filename": "soft-coated-wheaten-terrier.png",
+    "slug": "soft-coated-wheaten-terrier",
+    "name": "Soft Coated Wheaten Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "soft-coat"
+    ],
+    "description": "Silky, soft-coated terrier. Happy, lively, friendly."
+  },
+  {
+    "filename": "spanish-water-dog.png",
+    "slug": "spanish-water-dog",
+    "name": "Spanish Water Dog",
+    "tags": [
+      "mammal",
+      "dog",
+      "curly",
+      "swimmer"
+    ],
+    "description": "Curly-coated, strong swimmer. Hardworking and energetic."
+  },
+  {
+    "filename": "spinone-italiano.png",
+    "slug": "spinone-italiano",
+    "name": "Spinone Italiano",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "Italian"
+    ],
+    "description": "Sturdy, wiry-coated Italian pointer. Loyal, calm, affectionate."
+  },
+  {
+    "filename": "staffordshire-bull-terrier.png",
+    "slug": "staffordshire-bull-terrier",
+    "name": "Staffordshire Bull Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "muscular"
+    ],
+    "description": "Muscular, compact terrier. Brave, loyal, loving with family."
+  },
+  {
+    "filename": "standard-schnauzer.png",
+    "slug": "standard-schnauzer",
+    "name": "Standard Schnauzer",
+    "tags": [
+      "mammal",
+      "dog",
+      "schnauzer",
+      "medium"
+    ],
+    "description": "Medium, strong, smart. Good watchdog, loyal companion."
+  },
+  {
+    "filename": "sussex-spaniel.png",
+    "slug": "sussex-spaniel",
+    "name": "Sussex Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "golden"
+    ],
+    "description": "Golden-brown, low spaniel. Calm, affectionate, can be stubborn."
+  },
+  {
+    "filename": "swedish-vallhund.png",
+    "slug": "swedish-vallhund",
+    "name": "Swedish Vallhund",
+    "tags": [
+      "mammal",
+      "dog",
+      "herder",
+      "spitz"
+    ],
+    "description": "Small, spitz herder. Agile, playful, ancient Viking breed."
+  },
+  {
+    "filename": "thai-ridgeback.png",
+    "slug": "thai-ridgeback",
+    "name": "Thai Ridgeback",
+    "tags": [
+      "mammal",
+      "dog",
+      "ridgeback",
+      "athletic"
+    ],
+    "description": "Athletic, smooth-coated, distinctive ridge. Loyal, independent."
+  },
+  {
+    "filename": "tibetan-mastiff.png",
+    "slug": "tibetan-mastiff",
+    "name": "Tibetan Mastiff",
+    "tags": [
+      "mammal",
+      "dog",
+      "guardian",
+      "large"
+    ],
+    "description": "Large, powerful guardian. Independent, protective, needs space."
+  },
+  {
+    "filename": "tibetan-spaniel.png",
+    "slug": "tibetan-spaniel",
+    "name": "Tibetan Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "small",
+      "alert"
+    ],
+    "description": "Small, intelligent, alert. Loyal, catlike companion."
+  },
+  {
+    "filename": "tibetan-terrier.png",
+    "slug": "tibetan-terrier",
+    "name": "Tibetan Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "medium",
+      "shaggy"
+    ],
+    "description": "Shaggy, sturdy, medium dog. Friendly, lively, adaptable."
+  },
+  {
+    "filename": "toy-fox-terrier.png",
+    "slug": "toy-fox-terrier",
+    "name": "Toy Fox Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "lively"
+    ],
+    "description": "Tiny, lively, bold terrier. Great for active families."
+  },
+  {
+    "filename": "treeing-walker-coonhound.png",
+    "slug": "treeing-walker-coonhound",
+    "name": "Treeing Walker Coonhound",
+    "tags": [
+      "mammal",
+      "dog",
+      "hound",
+      "hunter"
+    ],
+    "description": "Fast, determined treeing hound. Loves chasing scents."
+  },
+  {
+    "filename": "vizsla.png",
+    "slug": "vizsla",
+    "name": "Vizsla",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "Hungarian"
+    ],
+    "description": "Sleek, red-coated Hungarian pointer. Energetic, affectionate, needs exercise."
+  },
+  {
+    "filename": "weimaraner.png",
+    "slug": "weimaraner",
+    "name": "Weimaraner",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "gray"
+    ],
+    "description": "Sleek, gray, energetic pointer. Smart, loyal, needs exercise."
+  },
+  {
+    "filename": "welsh-springer-spaniel.png",
+    "slug": "welsh-springer-spaniel",
+    "name": "Welsh Springer Spaniel",
+    "tags": [
+      "mammal",
+      "dog",
+      "spaniel",
+      "red-white"
+    ],
+    "description": "Cheerful, red-and-white spaniel. Energetic, loving, needs activity."
+  },
+  {
+    "filename": "welsh-terrier.png",
+    "slug": "welsh-terrier",
+    "name": "Welsh Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "sturdy"
+    ],
+    "description": "Compact, lively, sturdy terrier. Friendly, adventurous, bold."
+  },
+  {
+    "filename": "west-highland-white-terrier.png",
+    "slug": "west-highland-white-terrier",
+    "name": "West Highland White Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "white"
+    ],
+    "description": "\u201cWestie.\u201d Small, white, spirited, friendly, good with kids."
+  },
+  {
+    "filename": "whippet.png",
+    "slug": "whippet",
+    "name": "Whippet",
+    "tags": [
+      "mammal",
+      "dog",
+      "sighthound",
+      "slim"
+    ],
+    "description": "Slim, fast, gentle. Calm indoors, loves to run outdoors."
+  },
+  {
+    "filename": "wire-fox-terrier.png",
+    "slug": "wire-fox-terrier",
+    "name": "Wire Fox Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "terrier",
+      "wiry"
+    ],
+    "description": "Bold, energetic, wiry-haired. Classic show and hunting terrier."
+  },
+  {
+    "filename": "wirehaired-pointing-griffon.png",
+    "slug": "wirehaired-pointing-griffon",
+    "name": "Wirehaired Pointing Griffon",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "wiry"
+    ],
+    "description": "Medium, wiry pointer. Energetic, smart, needs activity."
+  },
+  {
+    "filename": "wirehaired-vizsla.png",
+    "slug": "wirehaired-vizsla",
+    "name": "Wirehaired Vizsla",
+    "tags": [
+      "mammal",
+      "dog",
+      "pointer",
+      "wiry"
+    ],
+    "description": "Hungarian pointer with wiry coat. Energetic, loving, needs space."
+  },
+  {
+    "filename": "xoloitzcuintli.png",
+    "slug": "xoloitzcuintli",
+    "name": "Xoloitzcuintli",
+    "tags": [
+      "mammal",
+      "dog",
+      "hairless",
+      "ancient"
+    ],
+    "description": "Ancient, hairless Mexican breed. Calm, loyal, good for allergy sufferers."
+  },
+  {
+    "filename": "yorkshire-terrier.png",
+    "slug": "yorkshire-terrier",
+    "name": "Yorkshire Terrier",
+    "tags": [
+      "mammal",
+      "dog",
+      "toy",
+      "silky"
+    ],
+    "description": "Small, silky, feisty terrier. Confident, loves attention, popular city pet."
+  }
+]

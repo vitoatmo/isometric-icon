@@ -1,7 +1,7 @@
 import csv
 import json
 
-input_csv = "Assets Icon List - data.csv"
+input_csv = "Assets Icon List - dog.csv"
 output_json = "data.json"
 
 data = []
